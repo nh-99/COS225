@@ -1,0 +1,826 @@
+02/01/2017
+Desiccators,490620,  2 cubic foot plastic dessicator cabinet.,85,59,924,627,680,788,392,197,525,98,852,646,201
+IBath,490184, 260010 refrigerated bench top bath with Pelletier thermoelectric cooling from ambient to 4oC.,93,605,838,997,418,639,479,94,493,258,48,701,204
+Spectrophotometers ,490780, 6 uv/vis spectrophotometer with computer  monitor and printer.,8,812,535,367,616,985,566,85,396,437,5,522,928
+Centrifuges,490432, centrifuge.,94,352,112,957,648,120,770,202,67,992,885,364,238
+Glove Boxes,490700, stainless steel  2-sided glove box with dual column gas dryer. 3 vacuum pumps and 2 recirculating chillers. Factory reconditioned.,60,710,728,644,824,499,267,882,63,369,678,667,818
+IBath,490174, tissue float bath.,48,59,796,429,438,911,163,582,38,329,892,92,968
+Microscopes,490727, trinocular compound microscope with 4x  40x and 100x objectives.,14,138,345,949,311,137,715,994,741,260,360,438,988
+Cell Disrupters,490292,(Thermal Spectronic) French Press complete with FA-030 cell (40 000 lbs) and rapid-fill kit accessory.,20,131,168,378,484,176,586,319,968,430,225,347,199
+Microscopes,490713,10  4-10-40-100x oil microscope.,12,56,993,640,664,993,255,817,819,752,27,560,66
+Microscopes,490714,10  4-40-100x plans microscope.,93,157,909,698,796,451,966,269,274,339,663,58,435
+Desiccators,490613,10 inch diameter glass dessicator. Complete with plate and cover.,91,799,31,902,735,731,958,255,705,94,384,936,452
+Desiccators,490614,10 inch diameter glass vacuum dessicator. Complete with plate and cover.,85,853,444,167,47,486,934,316,442,593,202,177,531
+Analyzer,490004,1000 tablet? Hardness Tester,3,154,45,859,180,729,486,862,33,955,497,20,121
+Spectrophotometers ,490787,100-30- uv/vis spectrophotometer.,24,990,998,26,803,609,290,371,422,315,829,896,782
+Spectrophotometers ,490788,100-50 uv spectrophotometer.,14,157,395,227,63,391,746,30,60,687,5,897,561
+Centrifuges,490361,1021 carrier,48,815,273,305,899,209,73,112,928,247,99,107,516
+Centrifuges,490410,1024 cytobucket carriers for 1 x 3 inch microscope slides. For IEC 958 or 215 rotors.,26,559,127,164,262,798,176,738,333,582,872,958,625
+Microscopes,490715,10x + 20x stereoscope,56,2,54,522,952,506,916,501,266,993,489,933,314
+Evaporators,490628,113 multivp Nitro O,43,152,389,742,254,507,286,103,919,66,202,3,85
+Biohood,490246,1184  Class IIA/B3 bio safety cabinet complete with stand. With new filters & current certification.,52,348,687,631,846,33,736,158,87,369,789,378,401
+Biohood,490247,1186  Class IIA/B3 bio safety cabinet complete with stand. With new filters & current certification.,35,651,609,177,446,81,320,498,106,863,906,634,423
+Bath,490146,12 x 18 inch with cover.,65,171,820,682,150,775,472,598,981,323,797,370,949
+Spectrophotometers ,490789,1234 Delphi fluorometer,99,287,710,461,161,333,801,18,331,671,421,104,673
+Bath,490147,1235PC  polymer coated water bath  11x20 inch chamber with cover.,59,386,890,253,767,753,297,71,116,368,210,555,938
+Cell Harvesters,490330,1295-001cell harvester,14,589,504,282,273,933,680,38,393,49,321,620,28
+Bath,490148,12x15 stainless steel bath with stainless steel cover,57,504,206,256,259,674,708,64,839,726,53,746,844
+Bath,490149,"14  20 x 15"" plastic bath.",11,225,190,353,736,933,265,765,26,201,221,366,325
+Balances,490070,1409 MP8 top loading electronic balance. Capacity 600 grams; sensitivity 0.01grams.,52,814,836,841,619,687,707,854,386,288,257,624,118
+Bath,490150,14L-M dual action shaking water bath. 14 x 18 inch  with SH AL dual action (orbital and reciprocal) digital shaker.,83,955,347,913,62,310,381,494,330,417,311,458,58
+Bath,490151,14x14x4  240v bath.,15,920,165,214,140,286,942,845,488,2,599,641,820
+Centrifuges,490409,15ml Rotor.,77,787,665,584,465,780,659,121,20,815,291,505,280
+Cell Disrupters,490296,1600 watt Polytron PT45-80 with tip.,6,968,695,748,159,235,255,102,415,27,409,578,529
+Cell Disrupters,490297,16-850 ultrasonic,84,827,474,44,574,699,435,199,800,461,269,23,538
+Autoclave,490037,16x26 cylindrical autoclave with generator.,37,648,725,414,804,671,269,76,623,572,535,146,132
+Bath,490152,181 5x5 inch water bath.,56,213,439,503,686,167,449,803,989,4,962,893,785
+Bath,490153,"185 water bath with stainless steel cover. 18 liter capacity chamber. 11 1/2"" x 19 1/2"" x 6"" deep.",45,879,465,990,125,542,404,880,407,887,716,575,750
+Desiccators,490615,18x 18 inch plastic dessicator cabinet  2 compartments.,90,763,419,941,395,850,708,698,662,137,83,106,716
+Spectrophotometers ,490790,1A IR gas analyzer,20,480,913,106,919,965,766,275,313,29,272,509,703
+Microscopes,490725,2 binocular microscope with 4x-10x-40x-100x E-plan objectives.,45,621,482,367,887,978,813,543,378,726,249,535,783
+Microscopes,490726,2 trinocular microscope with fluorescence and 4x  10x  40x  100x objectives. Dual head attachment available.,6,899,50,985,553,525,334,70,198,920,542,637,387
+Centrifuges,490362,204 (oil) with 6822 cups.,26,145,752,120,321,110,604,501,51,105,233,37,576
+Centrifuges,490363,204 with 338 buckets. Oil test rotor for HNS II centrifuge.,72,338,794,42,898,978,418,75,965,20,529,314,562
+Chromatography,490585,2089 uvicord III,81,394,728,517,843,13,932,290,820,488,311,762,775
+Spectrophotometers ,490791,210 scanning uv/vis spectrophotometer.,36,935,407,871,217,892,729,750,391,964,770,36,958
+Chromatography,490586,2117 multiphor with fluorometer,33,853,884,495,216,391,567,464,960,860,268,966,955
+Analyzer,490005,213 blood gas analyzer with 208 -02/01,35,441,349,820,519,309,469,31,68,603,188,82,810
+Chromatography,490587,2138 Uvicord S monitor,90,560,956,947,120,772,114,177,610,233,420,682,607
+Centrifuges,490411,235B micro centrifuge with 16x1.5ml rotor.,61,856,35,637,923,248,40,64,69,961,987,324,855
+Centrifuges,490412,235C micro centrifuge with 20 x 1.5ml rotor.,66,634,936,968,610,489,704,985,709,431,724,850,104
+Bath,490154,250 hi temperature water bath. 37-100oc,0,694,643,3,892,778,405,279,678,644,426,445,583
+Spectrophotometers ,490792,250 uv/vis spectrophotometer.,19,208,234,645,785,662,361,352,684,668,771,170,257
+Bath,490155,260 circulating water bath.,93,472,431,857,679,176,293,437,799,605,170,29,159
+Spectrophotometers ,490793,260 uv spectrophotometer.,80,709,533,738,992,917,406,315,955,930,117,159,878
+Bath,490156,270 circulating water bath.,67,914,135,282,341,713,195,995,773,572,490,990,353
+Centrifuges,490413,276 rotor.,86,227,680,400,105,152,240,517,694,605,287,454,847
+Centrifuges,490364,287 with 1020 oil and shield,53,448,475,647,996,168,597,597,552,289,935,191,853
+Spectrophotometers ,490794,295 spectrophotometer.,50,190,136,880,718,667,469,818,369,971,657,360,110
+Biohood,490263,3' wide Model 425-300 Class IIA/B3 biological safety cabinet/biohood complete with stand. Current certification sticker included!,99,894,748,172,957,309,346,390,596,188,928,898,158
+Reactors,490755,30 liter glass reactor vessel with bottom valve  support assembly  air motor  stirring shaft and agitator. Priced without reactor head.,88,891,567,698,919,269,497,28,666,506,151,544,23
+Spectrophotometers ,490784,301 vis spectrophotometer.,92,556,871,517,899,246,992,967,235,544,385,375,171
+Glove Boxes,490691,3025 temperature controlled anaerobic chamber with glove ports.,46,27,149,447,203,23,378,341,814,841,264,26,471
+Centrifuges,490414,303 shields,81,591,503,53,261,670,522,339,724,487,251,614,360
+Analyzer,490001,3300 IR gas analyzer,68,855,837,347,769,289,907,785,815,851,270,521,244
+Gas Chromatographs,490680,3400 dual FID  cap & packed GC,7,794,145,681,600,438,786,397,569,234,286,450,293
+Analyzer,490006,343 flame analyzer - parts,90,941,303,572,172,120,900,971,500,719,348,462,714
+Autoclave,490038,350  Inotech autoclave.,31,915,697,432,909,732,399,303,816,750,708,817,425
+Centrifuges,490365,353  2x913g+2Xhomeade,47,14,84,246,189,823,686,924,65,753,64,651,900
+Centrifuges,490415,353 cups.,79,303,135,547,997,769,977,255,905,720,7,910,860
+Centrifuges,490416,353 IEC 918 ultracentrifuge.,87,516,423,634,164,556,506,74,244,740,732,165,502
+Centrifuges,490417,3531 centrifuge with 24x1.5ml rotor.,49,561,882,834,932,699,219,267,432,691,135,356,491
+Centrifuges,490418,353S cups.,22,115,92,879,546,177,795,773,881,497,339,665,95
+Centrifuges,490366,384 cups,15,311,342,668,667,351,391,876,513,125,260,147,357
+Glove Boxes,490692,4 glove  single side with stainless chamber.,66,61,285,750,733,2,700,516,75,420,898,428,351
+Glove Boxes,490694,4 glove sterility test isolator with 316L passivated stainless steel construction  pass-thru and HEPA filters.,95,343,519,541,530,532,579,78,383,826,397,488,955
+Biohood,490264,4' Model NU408-FM 400 Class IIA biological safety cabinet.,83,747,941,239,555,258,343,757,847,264,139,751,236
+Biohood,490265,4' wide labgard NU 440-400 class IIA2 tabletop biological safety cabinet with microprocessor airflow control.,100,972,997,528,2,592,73,39,610,462,952,116,274
+Centrifuges,490373,4 x 750 windshield rotor.,47,541,852,874,757,543,320,631,896,531,572,125,325
+Fermentors,490664,40 liter Mobile Pilot Plt. S/N 88410307,33,147,25,880,598,418,377,112,447,342,185,994,986
+Centrifuges,490340,40 ultra,3,624,296,919,64,272,100,259,748,224,908,653,676
+Centrifuges,490419,408S sealed dome  one liter centrifuge cups for IEC 981 6 place windshield rotor.,91,416,140,883,977,805,263,298,368,276,11,649,372
+Bath,490157,4138 stainless steel water bath. 10 x 12,17,823,75,467,936,671,599,644,23,927,829,757,927
+Evaporators,490627,4322000 vortex evaporator.,38,251,428,770,802,319,254,646,662,169,464,208,397
+Evaporators,490629,43750/14 TurboVap LV high speed.,7,406,927,864,37,786,440,982,661,415,44,889,583
+Reactors,490756,4522 packed drive reactor,54,473,851,711,37,952,755,910,33,190,184,806,168
+Cell Disrupters,490298,4635 with regulator,20,197,831,973,332,896,415,803,582,466,525,575,45
+Reactors,490757,4662 one gallon  non-stirred pressure reactor with up to 1900 psi pressure and 350C temp.,38,832,372,638,280,26,335,738,904,681,512,835,238
+Reactors,490758,4913 reactor,39,330,517,37,410,149,595,91,827,286,71,341,798
+Furnace,490671,495A furnace.,1,489,343,433,382,476,193,325,911,39,513,297,606
+Spectrophotometers ,490777,4A uv/vis spectrophotometer,20,162,857,895,354,70,467,578,124,497,93,448,437
+Centrifuges,490404,4B tabletop non-refrigerated centrifuge. Variety of rotors (sold separately) available.,38,873,758,529,524,517,648,576,582,595,903,289,575
+Spectrophotometers ,490778,4B uv/vis spectrophotometer,87,698,465,181,935,532,216,580,602,69,165,311,246
+Centrifuges,490374,4x750ml windshield,17,924,80,41,424,172,460,58,36,574,205,267,67
+Bath,490158,5 inch x 5 inch water bath. Model 1201.,25,97,249,116,552,448,827,264,837,623,929,380,811
+Furnace,490672,5 x 8 inch tube furnace with 59344 controller,18,227,158,136,223,529,970,944,130,168,135,649,448
+Microscopes,490716,50 phase contrast  microscope with 32X phase  40X plan-neofluor phase and 100X plan-neofluor phase objectives.,50,543,624,502,247,986,178,458,406,483,843,905,610
+Gas Chromatographs,490681,5000 thermal desorber,59,80,733,560,733,307,583,504,625,889,448,279,149
+Centrifuges,490420,50Ti ultracentrifuge rotor.,81,96,639,620,221,916,839,142,179,531,632,645,378
+Furnace,490673,51231 4x5x12 inch box furnace without controller.,63,751,884,310,813,877,969,158,605,785,642,438,526
+Analyzer,490007,513 blood gas analyzer,82,673,86,604,269,606,236,594,27,585,723,741,674
+Fermentors,490665,520 bench top airlift 5 liter fermenter,10,128,639,518,366,407,93,629,971,138,43,526,314
+Reactors,490759,5222 3000psi/150oC l liter reactor,22,525,917,803,311,308,405,376,570,110,718,613,398
+Centrifuges,490421,5412 with 18 place rotor.,92,936,926,240,221,113,904,607,873,118,510,65,680
+Centrifuges,490422,5415C microfuge with 18 place x 1.5ml fixed angle rotor.,32,236,765,551,808,554,104,611,879,211,240,1,803
+Centrifuges,490423,5415C microfuge with 18 place x 1.5ml fixed angle rotor.,57,624,144,137,936,141,208,456,750,716,397,417,29
+Spectrophotometers ,490783,55 uv/vis spectrophotometer,96,293,934,858,30,174,421,237,341,87,674,13,4
+Spectrophotometers ,490775,55 uv/vis spectrophotometer with power,39,109,433,105,972,105,403,514,556,314,489,633,730
+Cell Harvesters,490331,550 cell harvester,32,374,503,498,76,205,183,929,472,944,514,814,534
+Furnace,490674,56412A 2 x 8 inch long tube furnace with controller.,76,554,898,907,350,842,104,974,522,668,495,82,590
+Chromatography,490588,570 gradient form,6,563,463,458,238,711,10,797,768,593,539,175,873
+Centrifuges,490424,5783 microplate carriers.,20,179,790,184,687,295,888,511,520,463,993,636,551
+Gas Chromatographs,490682,5890 Series II gas chromatograph with FID and ECD detectors  split injector and HPIB. Integrator also available.,88,118,427,703,777,777,661,250,210,299,109,643,776
+Microscopes,490711,5x  10x  43x  microscope.,13,830,879,885,291,718,518,730,960,131,190,813,873
+Biohood,490266,6' Model 408FM-600 Class IIA biological safety cabinet complete with stand.,32,244,801,388,863,516,365,704,846,361,819,727,230
+Spectrophotometers ,490779,6 spectrophotometer,59,82,940,694,445,550,198,78,275,613,832,622,310
+Biohood,490267,6' wide Labgard NU 440-600 Class IIA2 tabletop biological safety cabinet with microprocessor airflow control.,17,617,678,308,120,309,369,367,914,95,170,225,889
+Gas Chromatographs,490683,6000 GC,65,48,91,230,545,950,417,903,613,247,901,562,319
+Autoclave,490039,608A autoclave. 120 or 208 v 8x8x16,97,657,74,91,857,214,800,580,220,217,654,742,938
+Spectrophotometers ,490781,7 spectrophotometer uv/vis with controller and printer.,13,637,939,853,530,302,918,923,205,60,165,557,50
+Centrifuges,490425,70.1 Ti ultracentrifuge rotor.,81,119,905,790,768,742,670,75,886,962,527,155,264
+Balances,490071,700/800 Series triple beam balance.,36,645,476,169,101,4,853,204,76,985,813,852,637
+Bath,490159,7001-2 Model water bath. 6x12x6 inch deep.,62,895,402,801,547,527,143,809,67,843,749,104,165
+Centrifuges,490426,75Ti ultracentrifuge rotor.,4,881,117,875,219,880,257,629,128,601,652,497,121
+Centrifuges,490405,7R refrigerated centrifuge with 216 rotor and cups.,56,765,761,875,927,4,64,238,100,909,183,785,119
+Centrifuges,490394,7R refrigerated tabletop micro centrifuge. Complete with 24 x 1.5ml rotor.,15,894,7,504,838,200,229,186,463,248,307,38,362
+Desiccators,490616,8 inch diameter vacuum dessicator. Complete with plate and cover.,41,23,645,21,906,216,512,840,64,309,800,420,915
+Centrifuges,490367,809 with 302 and 303 shields,4,774,180,155,587,276,847,517,357,793,679,393,570
+Centrifuges,490427,813 fixed angle rotor for HNSII  MP4  etc.  series centrifuges. 24 place x 15 ml  complete with 24 IEC 302 stainless steel shields.,45,551,989,166,499,290,376,181,797,615,461,513,568
+Biohood,490268,813-300 port Class I fume hood.,82,830,16,214,505,527,454,798,654,240,499,788,520
+Centrifuges,490368,815  24x15ml fixed angle.,59,577,871,265,805,445,521,335,922,424,623,236,379
+Bath,490160,84  stainless steel  27 x 11  240v  with cover.,79,860,911,466,200,876,47,819,90,110,411,533,503
+Spectrophotometers ,490795,8451A uv/vis spectrophotometer,73,382,271,933,943,858,642,348,459,525,63,40,24
+Centrifuges,490369,856  8x50,51,982,228,684,986,694,990,867,53,482,215,683,215
+Centrifuges,490370,877  6 x 250ml,11,199,629,713,583,115,658,227,741,919,248,91,72
+Autoclave,490040,8816 steam powered autoclave.,91,327,575,571,139,888,999,629,806,823,574,387,841
+Centrifuges,490406,8R (tabletop refrigerated centrifuge) w/216 rotor and cups: 4 x 750ml capacity.,100,827,341,775,938,574,155,741,615,338,123,768,35
+Desiccators,490617,9 inch diameter plastic dessicator with vacuum port.,13,599,807,437,301,246,200,456,966,444,813,242,880
+Analyzer,490008,9000 analyzer,22,339,879,902,530,142,442,813,8,725,185,47,743
+Analyzer,490009,903-H moisture   analog,31,767,684,279,743,231,785,987,440,816,472,343,858
+Cell Disrupters,490295,923 cell disrupter,54,43,910,250,346,837,793,190,103,829,735,940,412
+Ultrasonic Cleaners ,490815,9332 ultrasonic cleaner,93,802,550,38,44,279,783,133,61,492,921,761,237
+Centrifuges,490371,958. Six place swinging bucket for HNS II centrifuge. Also fits HN and HN-S. Combinations up to 12x50 ml. Shown with 6 #366 rings and 6 #369 carriers which are priced separately.,91,51,894,635,799,588,213,385,13,766,644,426,654
+Analyzer,490010,985-S1 electrolyte analyzer,65,858,647,361,666,731,131,431,116,481,970,11,215
+Centrifuges,490431,A microfuge with 24 x 1.5ml rotor.,22,844,224,880,260,88,214,654,544,114,382,941,848
+Balances,490072,A200 digital analytical balance with filter weigh pan. Capacity 200 grams,38,49,611,749,66,832,741,895,767,461,922,769,857
+Balances,490073,AB104 digital analytical balance with 0.1mg sensitivity and 100 gram capacity.,85,366,594,853,613,298,941,862,20,267,3,350,121
+Balances,490074,AE163 digital analytical balance. Dual range: semi-micro range of 0.01mg to 30 grams; analytical range 0 .1mg to 160 grams.,97,710,288,566,210,217,105,128,575,526,547,430,228
+Balances,490075,AE200 electronic analytical balance with 0.1mg readability and 205 gram capacity.,65,343,578,110,966,600,162,840,169,398,728,989,178
+Autoclave,490041,agle 901 autoclave. (needs part),46,92,428,564,287,719,717,954,510,973,494,933,909
+Autoclave,490042,agle Ten+ tabletop sterilizer.,74,15,849,506,262,263,879,451,364,452,533,98,100
+Fermentors,490666,airlift,1,820,256,981,673,647,178,488,122,351,734,16,751
+Chromatography,490589,AKTA FPLC system with pump M925 gradient mixer  UPC-900 uv/pH conductivity monitor  FRAC 950 fraction collector and INV907 valve. Complete with manuals and Unicorn 4.11 software.,0,39,673,787,621,58,535,868,67,364,203,657,528
+Bath,490161,Aloe copper interior water bath.,63,794,582,373,889,154,553,467,75,142,617,149,41
+Gas Chromatographs,490684,ALS sampler,57,704,181,562,170,676,120,549,338,93,171,725,213
+Analyzer,490011,Analyzer,59,809,667,506,927,145,703,902,770,168,428,814,767
+Analyzer,490012,Analyzer,78,667,923,978,942,699,524,49,808,621,229,68,566
+Analyzer,490013,analyzer,24,150,854,188,867,172,561,971,54,974,216,340,808
+Centrifuges,490341,AN-D,54,91,357,624,635,856,201,586,745,363,67,41,160
+Centrifuges,490342,AN-F,85,682,324,603,699,602,734,738,607,833,538,753,428
+Balances,490076,AR 1014 electronic analytical balance. 0.1mg sensitivity and 80 gram capacity.,12,539,738,978,287,574,815,38,760,605,514,376,62
+Centrifuges,490428,AS-160 automatic speedvac system complete with centrifuge  refrigerated trap and vacuum trap.,78,992,65,129,950,533,691,513,461,724,534,101,300
+Balances,490077,AT200 professional level electronic analytical balance with auto calibration. Readability 0.1mg,88,711,192,157,893,370,746,906,307,859,224,46,177
+Balances,490078,AT250 Professional level analytical/semi-micro balance with .01mg readability to 50 grams and .1mg readability to 200 gram capacity.,77,419,789,855,983,243,872,583,688,944,278,730,165
+Glove Boxes,490693,Atmospheres HE432 glove box with Pedatrol  AM2031 moisture control  aluminum interior and new gloves.,57,214,286,698,189,465,887,806,677,144,422,211,809
+Centrifuges,490429,Automatic Environmental Speed Vac System. Model AES2000 complete with built-in vacuum pump and refrigerated vapor trap.,94,845,749,648,917,970,53,74,676,840,521,171,668
+Evaporators,490630,B-171 Vacobox combination PTFE vacuum pump and digital vacuum controller. 40 lpm capacity.,95,62,898,902,525,603,169,769,474,837,401,853,442
+Ultrasonic Cleaners ,490816,B220 ultrasonic cleaning bath. 5 1/2 x 9 x 4 inch deep chamber.,99,601,83,71,120,107,403,178,392,808,265,165,777
+Centrifuges,490430,B22M 20 000 rpm centrifuge.,78,934,113,279,919,651,706,671,590,608,653,521,845
+Biohood,490242,B40-112 console style Class IIA/B3 biological safety cabinet/biohood.,92,877,994,935,365,614,581,140,18,98,282,842,417
+Analyzer,490014,B-641 thermal cycler,98,917,856,437,474,928,577,752,772,721,66,918,533
+Balances,490079,BA110S Basic series analytical balance with 110 gm capacity and .1mg readability.,81,883,854,880,275,659,418,846,270,857,170,207,264
+Balances,490080,balance Model DRX.,29,699,51,303,904,739,211,946,548,698,513,954,902
+Balances,490081,balances Models DWM DLT2. 120 gram capacity.,96,949,726,951,945,158,165,127,900,750,268,518,461
+Balances,490082,BB240 top loading electronic balance with 0.01 gram sensitivity and 240 gram capacity.,56,998,549,794,885,936,107,910,281,221,661,175,147
+Biohood,490271,BBF-4SS Class II A bench top biological safety cabinet/biohood with stainless steel exterior.,29,858,396,579,400,498,905,425,938,502,742,870,853
+Biohood,490272,BBF-4SS-RX Class IIA tabletop biological safety cabinet.,83,643,719,273,787,463,874,761,862,4,741,853,232
+Biohood,490257,bench top horizontal laminar flow hood/cleanbench with formica work surface. Model 10562.,70,199,812,121,16,178,917,13,782,828,781,557,403
+Microscopes,490712,binocular phase scope with 16x objective.,99,194,286,75,609,582,888,957,321,44,798,409,367
+Microscopes,490702,binocular student microscope with mirror and 4 objectives  15x eyepiece.,26,881,384,978,959,564,362,426,938,473,315,976,736
+Fermentors,490661,Bioflow III batch/continuous fermentor with 6 liter glass vessel and nutrient  acid  base  and antifoam pumps and controls.,45,843,729,401,305,351,833,794,825,898,252,830,742
+Reactors,490760,bomb  approximately 250ml pressure.,57,303,60,85,632,646,863,612,579,139,556,883,715
+Balances,490083,BP3600DR dual range top loading electronic balance.,18,714,859,952,643,435,492,777,357,69,41,129,210
+Centrifuges,490339,buckets for 276 rotor,98,370,787,271,973,977,754,745,708,786,248,648,469
+Microscopes,490701,Bullpen compound laboratory microscope with trinocular head for camera  mechanical stage and 4x  10x  40x and 100x oil planachromat objectives.,71,172,450,168,4,501,542,732,348,243,922,415,413
+Centrifuges,490433,C3.12 with 4x250 ml rotor.,46,445,435,136,836,249,633,770,935,262,538,671,497
+Analyzer,490015,CA analyzer,68,247,160,593,148,473,362,298,602,231,125,195,236
+Biohood,490269,CCI 250 Class IIA console biohood.,62,56,193,312,469,255,386,872,806,896,964,733,456
+Cell Harvesters,490332,cell fusion system,90,734,393,402,468,495,63,831,309,558,254,68,558
+Cell Harvesters,490333,cell harvester,62,456,488,476,206,190,203,41,701,239,26,645,919
+Fermentors,490668,Cellift disposable fermenter,15,938,602,804,655,654,950,540,917,442,752,949,410
+Centrifuges,490434,Cellspin centrifuge.,61,823,732,937,198,632,682,311,775,459,258,434,664
+Centrifuges,490435,centrifuge.,86,124,278,696,297,26,626,180,212,587,148,943,5
+Centrifuges,490436,CF 35 Ti ultra  SN411SP rotor,97,265,122,102,813,210,251,68,871,944,285,956,778
+Cell Harvesters,490334,CH 103 cell harvester,38,436,732,457,284,336,940,361,540,121,532,433,288
+Chromatography,490590,chromatography column  jacketed.,17,397,523,885,964,717,825,524,675,853,791,899,68
+Chromatography,490596,Chromoscan,4,482,186,530,802,795,310,678,746,22,80,949,634
+Centrifuges,490437,CL centrifuge (old style),67,951,654,610,592,6,466,486,843,72,100,40,826
+Biohood,490243,Class IIA console.,61,874,689,858,904,326,132,538,327,70,756,569,375
+Centrifuges,490438,Clinical Model centrifuge. Compact tabletop unit accepts variety of rotors to accommodate up to 6 x 50 ml tubes.,27,852,589,592,615,362,662,141,905,582,164,567,973
+Bath,490169,coliform  14 x 12.,73,767,608,147,129,468,873,418,975,676,605,342,787
+Bath,490163,Coliform water bath.,76,938,225,692,773,264,15,467,52,760,626,841,27
+Centrifuges,490443,conospin,11,463,218,391,205,287,247,837,874,519,104,849,424
+Centrifuges,490444,conospin w/13,85,926,999,972,659,928,725,158,84,802,726,891,403
+Centrifuges,490445,conospin with 1323max  4x100 ml,23,465,539,683,617,553,94,531,997,824,919,42,892
+Ultrasonic Cleaners ,490817,console BC 300-126-6 cleaner,29,367,602,647,540,527,734,519,525,700,525,524,884
+Centrifuges,490439,Continuous centrifuge (no bowl),30,588,716,597,764,568,69,878,428,956,859,894,823
+Centrifuges,490440,CR-6000  refrigerated floor model centrifuge.,21,459,222,672,255,252,478,839,397,685,285,663,957
+Analyzer,490016,Creatinine analyzer.,32,201,486,905,966,519,220,184,364,270,723,72,144
+Desiccators,490618,"cubic foot stainless steel dessicator (no name) extremely rugged with 2 shelves. Seal tight with two vents for introducers inert gas interin. 24"" x 24"" x 30""",33,869,722,797,229,635,261,558,549,775,578,809,631
+Centrifuges,490441,Cytospin 2 cytocentrifuge.,91,840,451,751,520,128,172,330,877,749,59,323,988
+Balances,490084,D5-00 dual range electronic balance. Capacity 50 lb / sensitivity 0.1 lb. Capacity 3.2 lb / sensitivity 0.05 lb.,60,764,644,61,694,619,269,532,300,729,648,933,950
+Spectrophotometers ,490796,DB GT spectrophotometer.,43,38,375,828,235,889,553,123,258,863,666,399,628
+Chromatography,490591,density gradient frac 185,36,524,928,270,928,576,265,295,626,974,812,460,990
+Balances,490085,digital electronic balance with 0.001 gram sensitivity and 170 gram capacity.,40,562,615,434,297,383,513,127,860,201,359,402,200
+Balances,490086,digital electronic moisture determination balance. Model EB330. Capacity 330 grams,35,456,492,221,146,251,672,609,937,756,215,365,283
+Microscopes,490722,direct measure,7,196,211,988,222,560,844,879,272,668,586,366,85
+Centrifuges,490442,DNA 110 Speed Vac Concentrator for DNA/RNA with integrated vacuum pump and cover.,15,399,979,932,179,31,980,945,626,232,743,615,103
+Spectrophotometers ,490797,DR-3 visible range spectrophotometer.,60,200,667,47,896,800,216,779,959,214,227,454,169
+Spectrophotometers ,490798,DU7 uv/vis spectrophotometer.,51,661,831,472,779,673,428,117,656,356,347,750,176
+Spectrophotometers ,490799,DU-70 uv/vis spectrophotometer.,9,67,466,106,620,802,10,495,934,135,31,139,945
+Bath,490164,dual chamber water bath with digital readout. Model 1255  with gable covers.,70,693,358,327,832,18,43,166,49,349,182,133,956
+Analyzer,490018,E5 300 immunoassay system with Twin Software version 3.5.,15,966,173,103,254,56,641,70,320,940,324,189,387
+Gas Chromatographs,490685,ECD portable GC,83,188,892,97,873,285,689,409,276,74,787,684,820
+Evaporators,490631,EL evaporator complete  with cold trap.,85,167,950,836,847,80,144,773,334,927,97,616,211
+Balances,490087,Electronic Count Star floor scale: 340 lb x .1 lb and bench top scale: 60lb x.02 lb with printer.,61,821,665,667,380,455,839,571,830,313,185,637,854
+Autoclave,490043,Electronic portable tabletop sterilizer with built in heater. 12 inch diameter by 12 inch deep chamber.,68,330,700,260,535,596,278,287,717,118,823,456,622
+Chromatography,490592,EM-1 Econo dual wavelength UV detector.,15,790,264,317,107,657,618,44,684,251,275,175,882
+Biohood,490270,Environmental Air Control  Model EAC 10166. 4 foot  self contained  laminar flow clean bench.,96,414,936,739,284,971,189,419,942,578,279,628,245
+Balances,490088,Explorer (Model E02140) analytical balance with 0.1mg readability and 210 gram capacity.,75,758,989,196,332,72,287,520,579,935,298,344,671
+Balances,490089,Explorer Model E11140 analytical balance with 110 gram capacity,9,867,70,943,793,847,664,544,278,917,53,91,510
+Centrifuges,490446,F2402 microtube rotor  24 x 1.5/20 ml.,29,527,608,84,331,978,304,144,148,631,665,970,41
+Centrifuges,490447,F2402H biosafety microtube rotor  24 x 1.5/2.0 ml (or 250 microliter with adapter) for Allegros 2l  2lR 64R centrifuges.,41,613,308,572,542,558,601,848,42,4,110,916,24
+Centrifuges,490385,F28/13 (16x13  5ml),30,752,670,654,10,845,390,497,825,88,835,834,228
+Fermentors,490662,fermenter vessels 2L with head plate,32,239,197,86,999,65,256,713,215,547,620,887,50
+Fermentors,490669,flask with stainless steel plate,27,550,651,98,295,884,825,148,325,262,887,497,523
+Balances,490090,Flexmount floor scale with stainless platform. Remote readout only shown in photo. Capacity 500kg,84,289,556,866,857,876,59,824,660,598,397,960,11
+Autoclave,490044,floor model autoclave with 11x10x24 inch deep chamber and built in generator.,82,443,624,118,56,893,192,331,439,400,641,150,892
+Autoclave,490045,floor model steam sterilizer with 20 inch x 20 inch x 38 inch deep chamber and microprocessor controls.,2,820,715,90,736,245,731,671,968,656,980,20,363
+Centrifuges,490448,for HS4  250ml Sorvall 38002,61,365,51,256,536,322,470,966,508,355,350,508,88
+Cell Disrupters,490293,French Press with FA-073 cell.,56,755,606,305,989,871,754,525,549,226,620,835,296
+Cell Disrupters,490299,G3-12 sonic fractionator,61,38,675,14,580,491,325,507,869,772,538,298,625
+Bath,490141,G76D orbital shaker bath with digital readout.,9,746,669,191,357,548,766,723,501,297,406,278,58
+Biohood,490244,gegard  Model EG4252 horizontal laminar flow clean bench/bio hood.,2,245,35,480,77,316,112,262,761,720,646,338,873
+Chromatography,490593,Gel reader,96,230,878,322,955,443,350,773,496,725,836,739,760
+Reactors,490754,glass reactor  bio type,55,383,141,893,777,588,692,246,101,237,226,789,636
+Reactors,490761,glass reactor with mantle.,81,641,751,797,949,452,425,582,148,782,80,910,289
+Centrifuges,490449,GLC-2B general purpose tabletop centrifuge with maximum speed 6000rpm and maximum force 4960G depending on the rotor. Maximum capacity is 4 x 150ml.,75,228,905,559,734,19,589,937,976,230,477,639,811
+Centrifuges,490450,GP centrifuge with GH 3.7  4x750ml rotor.,75,17,439,115,288,940,519,795,639,941,684,510,489
+Centrifuges,490451,GPR centrifuge with 3.7 rotor.,1,998,765,410,758,696,961,846,47,158,356,91,870
+Chromatography,490594,grad prog GP500,58,414,826,441,555,807,454,713,323,131,182,290,138
+Centrifuges,490452,GS-15R tabletop refrigerated centrifuge with 4 x 180 ml rotor.,0,230,538,373,810,495,410,390,746,198,178,125,357
+Centrifuges,490453,GS3  6x500ml fixed angle rotor for high speed centrifuges. RC2B  RC5  RC5B  RC5C  etc.,12,178,157,548,752,449,162,550,447,432,184,118,692
+Centrifuges,490454,GS3  6x500ml fixed angle rotor for high speed centrifuges. RC2B  RC5  RC5B  RC5C  etc.,57,148,517,17,14,255,980,791,288,651,690,845,197
+Centrifuges,490455,GS-6KR refrigerated kneewell model centrifuge complete with GH-3.8 rotor and 4x750 ml buckets.,50,323,969,681,585,737,409,581,975,69,548,109,914
+Centrifuges,490456,GS6R tabletop refrigerated centrifuge with GH-3.8 (4x750ml) swinging bucket rotor.,73,22,391,937,393,109,121,21,386,393,965,258,8
+Centrifuges,490457,GS6R tabletop refrigerated centrifuge with GH-3.8 (4x750ml) swinging bucket rotor.,95,72,687,961,444,783,964,967,783,76,935,519,571
+Centrifuges,490387,GSA  6 x 250ml. Inside in excellent condition; anodizing worn off outside.,78,502,745,324,122,13,178,701,350,518,35,741,916
+Centrifuges,490386,GSA rotor for high speed centrifuges  6x250ml.,54,106,100,295,981,55,86,375,521,138,846,650,129
+Balances,490091,GT210 top load electronic balance. 210gram capacity,49,915,553,618,101,989,126,470,107,471,31,63,502
+Centrifuges,490388,H2000B without buckets,5,942,530,939,606,178,81,619,739,568,958,157,832
+Centrifuges,490458,HB4 rotor,14,511,280,152,225,918,455,283,105,658,456,848,566
+Centrifuges,490459,HB-6  6x50ml swinging bucket rotor for high speed centrifuges. 13 000 rpm maximum speed.,31,103,770,554,533,477,354,103,94,192,799,123,50
+Centrifuges,490372,HC Mod 2246,80,788,236,225,172,448,972,398,501,723,871,188,940
+Spectrophotometers ,490800,HC-404 oil-in-water and soil analyzer.,41,477,101,812,294,492,325,302,25,132,481,913,207
+Bath,490170,heating  circulating bath.,51,701,610,76,442,616,433,299,40,458,321,996,284
+Balances,490092,heavy duty solution balance. Capacity 20 grams,15,610,385,264,709,647,394,254,589,479,65,958,856
+Bath,490145,histo bath low temperature freezing bath.,33,782,172,904,397,624,936,675,792,371,726,947,658
+Bath,490171,HiTemp bath for use with water  oil  wax or sand up to 275oC with 5 liter capacity. Model 160.,51,938,941,846,74,247,632,93,758,489,292,422,253
+Centrifuges,490389,HL-28 RIA tube rack,78,836,807,756,277,150,903,425,277,123,308,722,693
+Balances,490062,HM-120 analytical balance with 0.1 mg readability and 120 gm capacity.,1,717,989,143,867,290,512,186,801,1,998,317,41
+Centrifuges,490460,HNS-II tabletop centrifuge. Non-refrigerated model  up to 4x250ml. Variety of rotors for different tube sizes in stock.,89,715,568,14,648,318,14,839,146,249,882,449,189
+Cell Disrupters,490300,homogenizer with stainless steel vessel,12,488,526,879,972,682,332,681,628,816,505,51,876
+Biohood,490256,horizontal laminar flow hood/clean bench with formica work surface. Current certification sticker included!,15,814,125,458,917,64,977,490,70,803,718,832,136
+Centrifuges,490461,HS4 high speed rotor with 4- 4x50 cup holders.,34,426,545,536,204,722,605,139,944,549,342,316,543
+Centrifuges,490390,HS4 with 24 place (#482),49,877,235,175,388,597,513,601,793,986,177,623,478
+Centrifuges,490462,HSC 10KA speedfuge.,51,441,609,467,100,223,307,848,21,758,623,982,426
+Centrifuges,490375,HSR16 for HSC10KA,34,879,67,194,624,317,662,840,111,310,983,770,999
+Centrifuges,490376,HSR30 for HSC10K,18,391,475,584,746,550,550,536,569,31,786,295,524
+Centrifuges,490377,HSR48 for HSC10K,35,268,11,954,696,365,442,657,353,732,773,355,742
+Centrifuges,490378,HSR8 for HSC10KA,70,732,654,341,478,7,223,538,93,268,335,180,88
+Centrifuges,490463,HT centrifuge with 856 rotor  20K rpm.,91,159,315,940,65,532,511,29,160,821,640,356,201
+Microscopes,490723,IM inverted  trinocular  research type phase contrast microscope with 10X eyepieces and 10X  20X and 40X phase objectives.,51,295,373,213,155,515,698,182,43,774,8,640,653
+Bath,490172,Imperial IV Model 18102 heated water bath with stainless steel cover. 12x20x5 inch high chamber.,59,314,120,475,43,439,756,185,141,614,788,321,739
+Microscopes,490724,IMT-2 inverted  phase contrast  trinocular research grade microscope with LWD plan 20 phase  LWD plan 40 phase and 10x phase objectives.,7,7,75,299,120,30,39,56,929,956,33,160,631
+Bath,490142,Innova 3000 bench top water bath orbital shaker.,93,145,18,623,368,96,449,217,158,695,712,247,742
+Microscopes,490717,inverted  phase contrast  trinocular microscope with 4X  10X phase  20X LWD and 45X LWD objectives.,75,69,85,939,806,650,834,402,923,88,834,636,254
+Microscopes,490720,inverted  phase contrast microscope.,79,860,472,570,92,780,162,660,794,894,46,400,133
+Microscopes,490718,inverted microscope with Hoffman modulation contrast  10x ph and 20x Hoffman objectives.,56,487,323,468,129,73,621,190,521,585,502,340,892
+Microscopes,490719,inverted microscope with Hoffman modulation contrast  20x bright field and 10x  40x Hoffman objectives.,12,129,317,607,269,400,128,837,819,605,36,939,108
+Analyzer,490017,Ion Analyzer,72,663,139,501,179,611,602,91,906,598,7,159,196
+Glove Boxes,490695,Isolator glove box.,36,451,590,877,543,187,981,967,668,177,674,125,215
+Centrifuges,490464,J2-21 floor model  refrigerated  high speed centrifuge. Up to 21 000 rpm or 3 liter capacity. Variety of rotors available.,44,754,905,457,536,961,621,485,544,636,460,983,951
+Centrifuges,490465,J2-21M high speed microprocessor controlled refrigerated floor model centrifuge with induction drive. Variety of rotors available-ask for package price with rotor.,47,530,277,49,894,53,139,690,888,188,139,378,88
+Centrifuges,490402,J-25 high speed (20 000 rpm)  refrigerated  floor model centrifuge. Variety of rotors available-inquire for package prices!,50,250,777,306,335,27,593,261,567,55,217,868,847
+Cell Disrupters,490301,J32A power supply only,23,856,653,277,467,710,384,268,103,297,866,162,315
+Centrifuges,490466,J6B high capacity refrigerated centrifuge with 6x1 liter wind shielded (JS4.2) rotor and buckets.,67,556,448,373,512,452,549,493,55,522,97,699,151
+Centrifuges,490467,J-6M high capacity  induction drive  refrigerated centrifuge with 6 x 1 liter wind shielded rotor.,47,686,861,722,218,858,4,149,35,393,364,675,865
+Centrifuges,490468,JA-10 (10 000 rpm)  6 x 500 ml fixed angle rotor for Avanti J series and J2 series high speed  refrigerated centrifuges.,31,491,321,471,475,399,351,851,304,981,760,989,596
+Centrifuges,490343,JA-10 without cover.,35,33,369,599,593,867,334,503,833,47,749,922,793
+Centrifuges,490469,JA-12 (12 000 rpm)  12 x 50 ml fixed angle rotor for Avanti J series and J2 series high speed refrigerated centrifuges.,75,84,177,469,595,401,788,505,327,417,680,9,408
+Centrifuges,490470,JA-14 fixed angle rotor for high speed centrifuges. 6x250ml capacity  up to 14 000 rpm.,29,213,811,431,232,598,498,253,38,130,953,750,590
+Centrifuges,490471,JA-17 (17 000 rpm)  14x50 ml fixed angle rotor for Avanti J and J2 series high speed refrigerated centrifuges.,39,632,895,272,631,244,395,564,518,749,680,781,127
+Centrifuges,490472,JA17 high speed centrifuge rotor. 14x50ml fixed angle  max 17 000 rpm.,3,551,146,913,841,260,276,290,313,165,215,137,463
+Centrifuges,490473,JA-18 (18 000 rpm)  10 x 100 ml fixed angle rotor for Avanti J and J2 series high speed  refrigerated centrifuges.,36,216,793,755,945,532,923,62,83,73,957,911,670
+Centrifuges,490344,JA20  8x50ml  black  for high speed centrifuges.,53,788,359,464,166,149,317,644,630,484,967,998,234
+Centrifuges,490474,JA-21 (21 000 rpm) 18 x 10ml fixed angle rotor for Avanti J and J2 series high speed  refrigerated centrifuges.,72,106,404,603,616,256,410,45,626,233,280,423,159
+Centrifuges,490475,JA-30.50 Ti (30 000 rpm)  8 x 50 ml fixed angle rotor for Avanti J series and J2 series high speed  refrigerated centrifuges.,27,363,454,851,962,759,568,805,914,441,513,244,167
+Centrifuges,490476,JCF-Z rotor. Zonal/continuous flow rotor for J2 high speed series and J6 high capacity series centrifuges.,65,254,899,945,987,443,752,112,560,198,363,889,873
+Centrifuges,490345,JLA 8.100 for Avanti centrifuge. 6x1 liter fixed angle system. Up to 8 000rpm.,46,969,589,339,147,587,126,670,219,333,597,400,85
+Centrifuges,490477,JLA-16.250 (16 000 rpm)  6 x 250 ml fixed angle rotor for Avanti J series and J2 series high speed refrigerated centrifuges.,15,709,328,90,52,410,119,786,900,345,338,474,715
+Spectrophotometers ,490776,Jr. 35 vis  digital spectrophotometer.,74,999,626,212,547,540,792,552,803,303,228,991,594
+Centrifuges,490478,JS12 rotor,10,639,824,910,458,396,98,507,428,700,252,898,800
+Centrifuges,490479,JS13.1 (13 000 rpm)  6 x 50ml swinging bucket rotor for Avanti J series and J2 series high speed  refrigerated centrifuges.,59,363,365,92,277,648,272,213,996,367,843,554,488
+Centrifuges,490346,JS4.2 (6x1 liter),98,506,643,912,127,43,551,778,158,854,631,743,592
+Centrifuges,490347,JS7.5 high speed  4x250,36,865,353,60,971,605,765,875,271,627,681,534,212
+Balances,490093,L2200S-X explosion proof electronic top loading balance with .01g readability and 2200 gram capacity.,41,855,391,340,162,632,700,89,915,100,602,987,55
+Centrifuges,490480,L8 70M  up to 70 000 rpm microprocessor controller centrifuge. Variety of rotors (sold separately) available.,20,683,298,275,16,184,805,451,49,449,276,672,131
+Centrifuges,490481,L8-55. Microprocessor control ultracentrifuge.,71,647,998,514,17,502,307,594,314,587,571,862,155
+Centrifuges,490482,L8-70 ultra. 70 000 rpm microprocessor controlled ultracentrifuge.,54,797,530,188,987,532,308,200,347,444,750,334,864
+Centrifuges,490483,L8-80M microprocessor controlled ultracentrifuge.,21,233,412,404,23,618,629,889,726,960,250,12,174
+Bath,490173,lab  5 x 10 bath (old),42,937,519,361,237,456,349,508,831,475,117,624,73
+Biohood,490251,laminar flow hood/clean bench with formica work surface. Current certification sticker included!,1,850,19,172,698,622,893,85,853,780,958,376,565
+Balances,490094,large pan top loading digital electronic balance. Capacity 3000 grams,48,937,735,305,208,305,331,222,188,903,734,613,637
+Chromatography,490595,LB21 automatic TLC-Linear analyzer.,75,497,736,100,939,74,957,510,867,264,508,129,880
+Balances,490095,LC12000S top loading electronic balance with sensitivity 0.1 gram and capacity 12000 grams.,45,289,725,81,427,464,352,68,114,817,275,916,250
+Cell Disrupters,490302,LR4 mechanical homogenizer.,42,437,649,614,156,909,580,487,279,430,968,658,523
+Spectrophotometers ,490782,LS3B scanning fluorescence spectrophotometer.,2,78,852,5,990,424,649,461,841,980,473,654,219
+Gas Chromatographs,490686,LSC-2 purge and trap,10,124,579,610,987,138,315,226,595,193,41,582,426
+Bath,490175,M jar bath - medium,24,132,879,663,297,616,367,119,621,893,815,2,64
+Bath,490176,M jar bath - small,91,71,759,400,723,463,737,213,272,240,848,112,539
+Centrifuges,490407,M microfuge with 24 x 1.5ml rotor.,78,595,35,852,910,148,994,425,412,41,365,948,223
+Bath,490177,M Model 1110 18 x 12 water bath,60,42,29,444,259,53,231,587,830,761,132,621,643
+Bath,490178,M Model 1125C-2 high temperature oil bath.,13,516,15,974,43,369,434,421,103,679,66,588,698
+Bath,490179,M Model 1130A water bath,93,948,386,493,586,836,554,315,651,888,441,618,411
+Bath,490180,M Model 1140C-1,87,77,920,14,152,574,286,6,96,563,358,883,799
+Bath,490181,M Model 1140C-1 shaker bath,4,611,682,935,255,356,732,943,674,721,340,387,320
+Bath,490182,M Model LTB-ATS-C Liquid to liquid thermal shock chamber with 0o to -75oC cold bath  ambient to 204oC hot bath.,50,822,77,422,11,381,660,789,645,328,179,964,169
+Bath,490183,M refrigerated shaking bath,63,632,897,17,746,949,69,882,537,573,960,482,997
+Cell Harvesters,490335,M-48R cell harvester,29,887,84,227,354,820,763,186,897,2,767,741,318
+Centrifuges,490485,MC 12V microfuge with 24 x 1.5ml rotor.,23,524,525,77,432,73,803,47,807,814,282,394,586
+Centrifuges,490486,MC-150 micro centrifuge.,83,358,801,963,918,827,226,835,262,346,524,939,795
+Balances,490098,mechanical moisture balance with rheostat control and illuminated  calibrated scale with 125W infrared lamp. Moisture measurement is from 0-100% with .1% accuracy in .2% graduations.,93,512,124,346,27,911,228,724,533,303,855,373,133
+Microscopes,490710,MF1Micromanipulator with Bach & Lomb microscope head.,20,172,425,99,851,528,751,957,474,739,320,506,524
+Centrifuges,490487,Micro 11 with Hz rotor without slide.,86,811,635,713,281,705,278,798,937,222,28,242,467
+Centrifuges,490488,Micro 12 micro centrifuge with 12 place fixed angle rotor.,85,235,644,987,816,400,366,460,684,560,928,93,715
+Centrifuges,490489,Micro 12 microfuge with high capacity bowl type rotor.,53,406,621,748,675,594,40,928,731,190,891,121,701
+Analyzer,490019,Micro 1310 blood gas analyzer with 326-10,24,647,200,629,242,551,208,967,897,438,929,98,938
+Centrifuges,490490,Micro 16 microfuge.,94,48,950,76,538,251,803,121,406,963,888,310,191
+Centrifuges,490484,Micro A tabletop micro centrifuge with 24 x 1.5 ml rotor.,36,214,710,380,133,251,735,897,295,915,441,898,627
+Cell Disrupters,490303,Micro Attach 18073,32,768,933,496,484,390,462,745,929,758,293,377,86
+Centrifuges,490493,Micro centrifuge complete with 24 place x 1.5 ml fixed angle rotor.,17,100,953,382,589,699,91,361,470,739,359,575,864
+Cell Disrupters,490304,micro dismembrator U,90,561,787,224,19,101,962,81,743,873,641,689,328
+Microscopes,490729,Micro IV compound microscope with 4x  10x 40x 50x oil and 100x oil objectives and 10x eyepieces.,94,131,680,793,756,390,616,519,638,565,617,503,551
+Microscopes,490709,Micro IV trinocular microscope with 4-10-40-100x plan achromat objectives.,60,535,133,102,129,95,39,366,164,98,874,191,747
+Cell Harvesters,490336,Micro96 cell harvester.,49,929,267,212,631,953,56,227,805,13,177,598,140
+Centrifuges,490491,Microfuge E with fa rotor,88,444,157,137,393,659,564,392,848,750,796,753,156
+Centrifuges,490492,microfuge with 16 x 1.5ml rotor.,99,320,336,811,678,925,186,152,885,952,16,815,600
+Microscopes,490728,Micromanipulator platform X Y Z  Theta adjustments.,27,931,545,239,28,607,489,661,611,213,811,346,991
+Centrifuges,490494,microplate rotor with 2 carriers.,1,279,639,503,992,948,700,319,324,803,318,249,470
+Analyzer,490000,Microtrac particle analyzer (3 pcs),31,337,186,457,509,946,444,621,861,442,975,735,977
+Chromatography,490598,mini 15,94,495,616,653,591,680,278,620,858,490,635,103,527
+Biohood,490261,Miso tabletop PCR Workstation with vertical HEPA laminar airflow and uv light.,62,556,895,872,363,886,791,927,581,268,86,781,616
+Centrifuges,490495,Model 0151 tabletop analytical centrifuge with 6 x 15 ml rotor.,15,600,115,984,212,735,621,827,830,264,204,647,561
+Autoclave,490047,Model 1000R autoclave with recorder.,33,376,550,365,544,632,874,367,665,129,427,719,149
+Spectrophotometers ,490801,Model 100-10 uv/vis spectrophotometer.,26,537,693,600,949,703,208,384,104,398,423,900,600
+Bath,490185,Model 103  12 x 24 water bath.,41,606,895,404,103,636,808,774,771,312,584,676,283
+Centrifuges,490496,Model 11 micro centrifuge with 1.5ml fixed angle rotor.,62,927,622,419,36,729,952,73,966,19,34,753,568
+Biohood,490248,Model 1104 console style Class IIA biosafety cabinet.,61,66,11,951,515,335,963,665,839,683,56,619,446
+Centrifuges,490497,Model 112 tabletop micro centrifuge with 12 x 1.5 ml rotor.,74,985,313,46,939,779,41,94,277,976,17,549,387
+Spectrophotometers ,490802,Model 112 uv-vis filter fluorometer with digital display. Excitation and emission ranges 254 to 650 nm.,35,238,699,846,849,142,493,552,666,211,858,771,171
+Evaporators,490633,Model 115  36 place nitrogen evaporator.,24,917,636,222,573,725,308,303,933,140,728,743,926
+Bath,490186,Model 116 stainless steel  12 x 12 water bath.,56,938,914,398,389,863,0,490,50,58,104,393,84
+Biohood,490249,Model 1184 Class IIA/ B3 biosafety cabinet. Complete with stand.,31,419,506,452,76,856,715,676,826,62,231,40,810
+Biohood,490258,Model 1186  Class IIA  Type A/B3 biological safety cabinet/biohood. Complete with stand. (Stand not shown in photo.),85,367,938,977,326,401,799,456,800,171,539,189,484
+Cell Disrupters,490305,Model 119?-94 cell disrupter.,5,941,928,289,328,67,500,118,66,356,831,373,114
+Biohood,490275,Model 1200  4' wide console style  Class IIA biological safety cabinet.,6,396,627,942,19,524,943,576,841,133,474,78,113
+Centrifuges,490498,Model 1200 bench-top centrifuge complete with 8x15ml fixed angle rotor  tachometer and timer.,92,665,886,516,71,191,549,610,412,115,893,180,178
+Bath,490187,Model 1200 water bath. 2 liter capacity.,30,418,361,589,406,39,419,36,870,181,353,697,50
+Biohood,490250,Model 1202 console style Class IIA biosafety cabinet.,14,814,254,293,546,214,467,102,486,771,352,243,558
+Bath,490188,Model 1203  14 liter water bath with 11.7 x 13 x 6 inch deep chamber.,36,802,64,592,750,95,684,421,195,213,161,130,241
+Ultrasonic Cleaners ,490818,Model 1210R - DTH ultrasonic cleaning bath with heater  timer  digital display. 5 1/2 x 6 x 4 inch deep chamber.,54,738,76,361,27,370,813,992,209,120,468,357,332
+Biohood,490273,Model 1224 Aerosol Guard Treatment console hood with blower and casters.,38,971,915,18,542,722,542,981,707,838,935,549,260
+Bath,490189,"Model 1225 heated water bath with gable cover  6 liter capacity ( 6"" x 11.5"" x 6"")  microprocessor control and LED temperature display.",62,788,665,620,435,629,382,282,293,296,545,137,507
+Bath,490190,Model 1225PC (12x6x6 inch high) polymer coated  digital heated water bath.,3,167,545,218,618,482,688,934,718,720,268,497,485
+Bath,490191,Model 1235 heated water bath with gable cover. 14 liter capacity with microprocessor control and LED temperature display.,43,392,536,479,4,935,877,822,138,111,457,508,639
+Bath,490192,Model 1240  12 x 19 water bath.,74,322,110,580,894,832,896,161,622,434,624,337,410
+Bath,490193,Model 1245PC water bath with digital temperature display  polymer coated  11.5 X 19 X 6 tank.,93,663,135,925,844,469,663,486,918,494,420,303,321
+Reactors,490762,Model 1261 bomb Calorimeter  System 2 configuration which includes printer  water cooler and water handling system.,91,444,955,142,309,851,601,779,920,427,743,187,887
+Bath,490194,Model 129 shaking bath.,71,94,736,58,653,172,317,655,126,272,568,972,255
+Bath,490195,Model 1295PC deep chamber (12x14x12 inch high)  polymer coated  microprocessor controlled  heated water bath. Complete with stainless steel gable cover.,64,32,475,718,40,547,791,754,788,113,111,118,355
+Bath,490196,Model 130 5 x12 stainless steel water bath,43,717,225,864,682,469,284,174,40,273,69,565,714
+Bath,490197,Model 132 water bath with cover.,12,768,618,486,559,141,706,643,620,962,30,29,881
+Bath,490198,Model 134 Tissue Prep Floatation Bath.,46,336,96,528,722,437,30,236,336,807,654,789,649
+Bath,490199,Model 137  12 x 12 inch  tan  with cover.,77,764,221,419,389,20,591,177,520,710,429,292,897
+Bath,490200,Model 138 water bath  12 x 20 x 6 inch deep chamber with cover.,76,2,693,742,56,827,322,137,957,520,114,206,566
+Balances,490099,Model 1403 platform balance .1gm/6100gm.,40,931,373,60,789,60,841,906,887,92,748,45,801
+Balances,490100,Model 1475 MP8 electronic top loading balance with .001g readability and 420 gram capacity. With round glass draft shield.,89,132,593,726,143,765,116,566,954,128,311,978,419
+Centrifuges,490499,Model 1505  6 x 15ml bench top centrifuge.,45,749,512,476,314,169,144,956,472,119,906,47,885
+Balances,490101,Model 1601 electronic analytical balance with 0.1mg readability and 110g capacity.,72,244,462,313,484,500,6,146,391,753,177,457,754
+Balances,490102,Model 1612 electronic semi-micro balance with 0.01 mg readability to 30 grams and 0.1 mg to 160 gram capacity.,17,553,689,500,637,768,726,154,971,972,592,779,340
+Spectrophotometers ,490803,Model 1692T fluorimeter.,61,860,121,389,265,995,732,854,883,995,9,214,180
+Balances,490103,Model 1712 electronic semi-micro balance with .01mg readability to 30 gram and 0.1mg readability to 160 gram capacity.,28,96,469,168,992,722,149,986,791,597,394,440,785
+Gas Chromatographs,490687,Model 17A dual FID  gas chromatograph system complete with AOC-20i autoinjector/AOC-20S autosampler  class VP version 4.2 software and computer.,16,476,324,673,502,475,226,917,50,39,661,589,77
+Bath,490201,Model 18052 digital readout aqua bath  3.1 liter capacity.,10,908,714,36,266,960,933,31,327,653,882,738,784
+Bath,490203,Model 182  6x12x6 inch deep water bath with cover.,62,999,504,214,287,629,977,403,584,960,509,611,157
+Bath,490202,Model 182 water bath with 6x12x6 inch deep stainless steel chamber and stainless steel gable cover.,56,916,997,162,856,812,516,869,322,694,603,108,505
+Biohood,490276,Model 1839 (3' wide) laminar flow clean bench with stand and casters. Current certification sticker included.,72,663,70,47,143,71,226,793,468,637,849,899,294
+Bath,490204,Model 184 water bath with stainless steel gable cover. Chamber 14 x 12 x 8 inches deep.,45,588,431,212,369,305,267,720,659,286,629,832,147
+Biohood,490259,Model 1856 horizontal laminar flow clean bench/bio hood.,9,733,421,907,900,348,225,158,977,643,892,873,736
+Bath,490205,Model 188 dual water bath with covers.,58,884,526,102,891,894,139,587,897,411,913,662,935
+Bath,490206,"Model 18800 dual chamber water bath. Dimensions (wxdxh): small chamber: 5 7/8"" x 5 3/8"" x 5"" large chamber: 12 3/4""x 11 5/8"" x 5"".",43,356,88,731,334,25,894,728,256,786,19,873,815
+Cell Disrupters,490306,Model 2000 homogenizer/cell disruptor complete with stand and probe.,81,156,306,76,863,595,206,657,274,950,213,467,792
+Bath,490207,Model 202 water bath  2.99 gallon capacity with cover.,93,539,746,775,452,259,876,462,954,409,118,493,981
+Bath,490208,Model 2032 thawing bath,81,223,270,131,263,407,344,320,591,207,641,951,641
+Bath,490209,"Model 220 water bath 12x12x6"" deep chamber with cover.",54,26,939,602,865,455,607,862,242,603,820,285,465
+Ultrasonic Cleaners ,490819,Model 2200 ultrasonic cleaning bath with 5 1/2 x 9 1/2 x 4 inches deep chamber.,50,465,67,516,664,716,433,107,450,218,581,756,105
+Bath,490210,Model 220A water bath with cover.,65,105,54,14,295,125,759,785,558,331,675,977,39
+Ultrasonic Cleaners ,490820,Model 221 ultrasonic cleaning bath with timer. 5 1/2 x 9 1/2 x 4 inch deep chamber.,1,269,846,229,829,634,760,440,481,469,688,540,5
+Bath,490211,Model 224 shaker bath  17 x 8 with cover.,49,496,671,883,844,266,32,631,675,456,12,284,344
+Centrifuges,490500,Model 225 centrifuge with 15 ml x 24 place fixed angle rotor.,52,654,496,849,981,174,741,35,180,863,812,710,409
+Cell Disrupters,490307,Model 23 macro homogenizer,31,689,925,858,830,857,658,933,850,864,201,265,350
+Cell Disrupters,490308,Model 23 micro homogenizer,67,459,454,838,713,820,992,599,499,937,566,501,24
+Balances,490104,Model 23 microbalance. 1.5 gram capacity and 0.1 microgram sensitivity.,22,684,261,653,721,337,443,6,333,707,723,532,113
+Bath,490212,Model 230A  12 x 26 bath.,97,903,337,868,156,183,638,522,60,224,785,985,49
+Bath,490213,Model 25 reciprocal shaking water bath with digital controls.,78,381,884,500,426,952,730,266,74,63,148,190,685
+Bath,490214,Model 25 shaker bath with cover.,59,235,203,292,859,488,532,397,106,376,87,754,554
+Cell Disrupters,490309,Model 250 ultrasonic cell disruptor complete with converter and probe.,52,845,404,430,548,229,803,636,346,842,280,153,531
+Cell Disrupters,490310,Model 250 ultrasonic cell disruptor complete with converter and tip.,61,714,739,438,396,995,639,876,275,812,152,628,362
+Bath,490215,Model 2568 reciprocating shaker bath.,22,20,271,314,523,551,440,220,431,983,494,787,347
+Bath,490216,Model 2568 shaker bath with cover.,69,451,900,365,633,115,192,519,262,648,796,20,46
+Biohood,490277,Model 260 Class IIA biological safety cabinet. 6' wide console type. Includes new filters!,37,312,918,436,113,317,921,86,736,288,483,513,154
+Bath,490217,Model 270 high performance  89 liter capacity  digital  heated circulating water bath with cover.,67,747,151,603,354,512,209,180,82,4,371,30,637
+Bath,490218,"Model 280 general purpose water bath  digital controls & display  1.5 liter capacity (6"" x 11.4"" x 2"")  100oC maximum temperature and stainless steel gable cover.",36,450,151,904,960,857,491,7,53,604,851,890,633
+Bath,490219,"Model 282 general purpose water bath  digital controls & display  5.5 liter capacity (6"" x 11.4"" x 6"")  100oC maximum temperature and stainless steel gable cover.",63,211,667,119,695,760,295,867,135,953,822,243,232
+Autoclave,490048,Model 3021 single door autoclave with 20 inch x 20 inch x 38 inch deep chamber. Eagle 3000 microprocessor controls. Stainless steel piping and steam generator for tissue culture applications. Complete with built-in 30 KW steam generator. Unused - like new condition!,79,603,548,280,867,880,885,715,494,679,263,131,123
+Biohood,490252,Model 315 tabletop Class IIA biological safety cabinet. Complete with stand  on casters.,15,862,436,251,969,853,936,285,676,621,682,137,709
+Balances,490105,Model 33 digital microbalance with 1 microgram sensitivity and 200mg capacity.,90,106,294,652,518,814,632,384,504,492,549,94,515
+Bath,490220,Model 3540 shaker bath,42,115,932,53,654,412,580,837,500,171,979,740,268
+Bath,490221,Model 3545 microprocessor orbital shaker bath,49,603,151,0,323,152,62,979,470,837,611,940,854
+Bath,490222,Model 3575 Dubnoff Incu-Shaker bath,49,466,499,483,788,479,611,331,842,93,356,730,946
+Bath,490223,Model 375 tissue float bath.,15,866,555,701,256,229,438,24,934,490,687,239,856
+Reactors,490763,Model 3911 hydrogenation apparatus with explosion proof motor.,45,368,167,576,514,644,224,132,144,585,806,16,157
+Reactors,490764,Model 3921 hydrogenation apparatus with explosion proof motor.,54,294,475,161,328,915,466,64,946,578,304,48,698
+Reactors,490765,Model 4 hydrogenation apparatus with explosion proof motor.,85,807,234,612,63,455,849,663,782,880,93,76,365
+Cell Disrupters,490311,Model 45,13,319,117,30,472,938,435,984,555,662,776,906,691
+Cell Disrupters,490312,Model 450 ultrasonic cell disrupter (400 watt) complete with converter and tip.,72,258,98,228,930,55,591,267,252,409,385,221,126
+Autoclave,490049,Model 4520 2 door autoclave. GMP vac with bio,61,711,186,220,702,385,327,695,85,594,579,591,586
+Reactors,490766,Model 4639 45ml cell disruption bomb with gauge and connections.,68,690,293,888,170,999,846,156,651,397,873,399,883
+Cell Disrupters,490313,Model 50,83,890,512,21,18,411,434,565,725,361,450,531,351
+Bath,490224,Model 50 analog bath.,64,873,9,926,246,30,971,459,278,478,698,632,647
+Bath,490225,"Model 50 shaker water bath with digital temperature readout. Bath dimensions: 28"" long  x 10"" wide  x 8"" deep.",89,933,557,723,263,877,690,534,306,991,481,980,125
+Glove Boxes,490696,Model 50002 Radioisotope  one piece molded fiberglass glove box with interchange box.,76,921,334,145,920,722,447,400,119,739,964,735,633
+Glove Boxes,490697,Model 50004 Controlled Atmosphere one piece molded fiberglass glove box with vacuum type interchange box.,94,596,639,829,10,385,556,23,949,971,529,131,399
+Glove Boxes,490698,Model 50350 chemical/carcinogen  one piece molded fiberglass glove box with interchange box.,59,18,909,791,834,335,859,190,475,177,67,628,733
+Furnace,490675,Model 51794 muffler furnace with 9x9x15 inch chamber and 1100oc maximum temperature.,66,562,123,182,296,313,688,965,52,322,674,423,309
+Autoclave,490050,Model 53 floor model autoclave with 16 inch diameter x 26 inch deep chamber and L820 steam generator.,67,740,195,264,365,854,108,381,612,557,501,473,304
+Centrifuges,490501,Model 5402 bench top refrigerated micro centrifuge complete with 18 place x 1.5ml fixed angle rotor.,48,64,923,212,595,90,406,314,263,633,327,156,526
+Centrifuges,490502,Model 5413 micro centrifuge with high capacity rotor.,68,259,679,957,499,343,243,983,118,644,450,663,9
+Centrifuges,490503,Model 5414 constant speed micro centrifuge,15,342,191,938,683,137,326,74,346,140,658,237,656
+Centrifuges,490504,Model 5415 variable speed micro centrifuge complete with rotor.,64,803,392,329,363,991,247,470,378,917,45,480,397
+Desiccators,490621,Model 55300 fiber glass vacuum dessicator.,84,999,53,311,407,958,665,139,284,714,905,75,565
+Desiccators,490622,Model 55300 fiberglass vacuum dessicator  1 cubic foot.,18,422,440,177,793,635,795,726,541,155,479,148,902
+Gas Chromatographs,490688,Model 5890GC with 5970 MS (Mass Selective Detector). Complete with computer and HP Chemstation GA17018A software.,12,716,126,230,395,335,177,341,366,705,207,769,809
+Centrifuges,490505,Model 59A micro centrifuge with rotor.,15,749,293,417,817,755,580,911,354,200,303,477,105
+Biohood,490278,Model 603-630 biohood. 6' wide tabletop reverse flow animal isolator.,97,15,95,282,201,667,622,459,487,173,268,698,129
+Biohood,490279,Model 6252 Edgegard laminar flow biohood/clean bench. 6' wide.,69,4,691,422,870,497,234,913,378,815,737,951,620
+Biohood,490280,Model 6320  6' wide horizontal laminar flow biohood/clean bench with 36 inch high work area.,2,973,738,901,483,945,737,225,869,682,741,992,469
+Analyzer,490020,Model 634 Ca/pH electrolyte analyzer. (For whole blood  plasma and serum).,97,310,575,367,500,270,550,215,357,304,269,963,557
+Bath,490226,Model 66643  5 x 10 bath with cover.,36,78,384,1,275,319,771,365,684,298,837,127,58
+Bath,490227,Model 66730 concentric ring electric steaming bath with four positions.,47,712,304,647,997,578,354,202,372,655,129,267,575
+Bath,490228,Model 67101 orbital shaker  digital.,45,795,289,539,470,948,351,599,374,24,35,106,632
+Analyzer,490021,Model 7000 nitrogen detection system,39,879,72,159,708,935,427,579,841,689,555,321,637
+Autoclave,490051,"model 750 bench top sterilizer. Chamber 7"" diameter x 14"" deep. Maximum operating pressure: 27 psi at 132C temperature.",98,88,612,667,254,362,946,730,263,340,434,10,810
+Ultrasonic Cleaners ,490821,Model 75HT Aquasonic stainless steel ultrasonic cleaning bath with heater and timer.,32,605,584,947,748,274,385,768,296,909,33,93,965
+Autoclave,490052,"Model 800 autoclave. 8"" diameter x 14"" deep.",95,415,525,462,459,657,303,954,790,602,941,946,181
+Autoclave,490053,"Model 800V autoclave. 8"" diameter x 14"" deep.",88,379,271,341,840,100,394,248,612,943,531,696,312
+Autoclave,490046,Model 8080 bench top steam sterilizer with 8x8x16 inch deep chamber.,30,193,181,757,690,880,209,430,325,598,630,770,452
+Autoclave,490055,Model 9000D / 9 inch diameter tabletop centrifuge. Temperature range: 121 - 132oC. Pressure range: 15 - 27 psi.,37,614,479,778,588,280,44,42,727,879,586,974,61
+Autoclave,490054,"model 9000D table top autoclave. Chamber dimensions: 9""diameter x 17"" deep. Temperature range: 121 - 132C. Pressure range: 15 - 27 psi.",69,318,691,739,670,77,826,946,978,429,526,58,663
+Analyzer,490003,Model 911 Dew-All digital humidity analyzer.,57,178,769,438,556,717,94,832,717,545,268,47,68
+Bath,490229,Model 93 serological water bath,77,445,360,112,773,94,825,399,10,556,919,719,34
+Centrifuges,490506,Model A-14 micro centrifuge with fixed angle rotor.,18,276,614,305,418,992,109,526,454,187,86,747,568
+Balances,490106,Model A210P analytical balance with 0.1mg readability to 60g and .5mg readability to 212 gram capacity.,33,57,308,16,11,627,180,198,475,442,860,456,382
+Balances,490107,Model AC210S analytical balance with 0.1 mg readability to 212 gram capacity.,57,588,805,55,943,424,968,989,44,522,343,731,162
+Centrifuges,490507,Model AS 26SP continuous flow  max. 17 000 rpm  sterilizable-in-place  floor model centrifuge. Other specs: 15 psig  250oF  1.9 s.g. of cake or heavy phase.,82,282,14,570,795,8,120,879,83,9,126,762,941
+Autoclave,490056,"Model AS-12 Accu-Sterilizer with 12"" diameter x 18"" chamber",73,48,753,391,22,551,474,668,901,672,150,759,235
+Balances,490108,Model AT20 Professional Level semi-micro electronic balance with 2 microgram readability and 22 gram capacity.,18,783,228,293,993,797,386,956,801,954,998,250,434
+Ultrasonic Cleaners ,490822,Model B-22 ultrasonic cleaning bath with 9 1/2 x 5 1/2 x 4 inch deep chamber.,4,488,190,480,582,372,899,490,115,864,245,264,234
+Bath,490137,Model B7000-67 water bath. 6 x 12 x 6 inch deep.,96,222,597,677,674,653,678,128,815,768,498,634,640
+Balances,490109,Model BA4100S top loading balance with 0.01 gram sensitivity and 4100 gram capacity.,7,541,387,45,405,735,364,722,737,344,277,878,928
+Balances,490110,Model BA610 top loading electronic balance with 0.01g readability to 610 gram capacity.,82,13,840,820,966,913,669,956,981,727,427,635,6
+Balances,490111,Model BA6100 top loading electronic balance with 0.1g readability to 6100 gram capacity.,7,685,817,840,6,270,330,355,964,30,10,96,149
+Centrifuges,490508,Model Biofuge 15  high speed micro centrifuge. 15 000 RPM  18 x 2 ml fixed angle rotor.,49,99,802,455,571,929,904,320,335,580,900,716,725
+Bath,490162,Model BK33 digital water bath with glass window.,28,747,939,601,510,689,523,642,283,717,992,929,477
+Balances,490112,Model BP210D semi-micro balance with 0.01mg readability and 210 gram capacity with automatic internal calibration.,88,64,490,364,721,856,270,861,646,911,350,153,971
+Autoclave,490057,Model C2260 tabletop sterilizer.,56,322,451,365,486,417,506,569,89,954,67,195,945
+Centrifuges,490509,Model CL tabletop centrifuge with Model 801 fixed angle rotor and 6 x 305 (25ml) shields.,0,435,563,338,626,765,240,125,988,753,415,69,669
+Centrifuges,490510,Model CR3i bench top refrigerated centrifuge complete with T-40 (4x280ml) rotor (with 50ml  15ml  and 7ml inserts)  T-20 microplate block rotor  and AC2.14 sealed  24x1.5ml microtube rotor.,2,173,395,456,423,75,789,721,606,554,975,229,690
+Centrifuges,490511,Model CRU 5000 floor model refrigerated centrifuge. Variety of rotors available. Capacity up to 4x1 liter. Dependable and easily maintained - great value.,97,898,458,751,738,7,365,70,407,544,475,541,570
+Balances,490113,Model CT600-S portable electronic balance with 600 gram capacity and .1 gram sensitivity.,4,862,54,319,325,878,115,623,611,92,765,450,700
+Balances,490068,Model CW11-2EO wash down bench scale with 0.001 kg readability and 25 kg capacity.,63,640,880,463,589,969,167,135,324,209,828,483,208
+Bath,490230,Model D3 bath (oil?),85,979,661,638,493,901,474,360,462,733,156,532,519
+Balances,490114,Model DB33 2 pan balance. 240gm capacity.,3,432,435,778,800,985,254,376,538,35,388,608,805
+Balances,490115,Model DC-120 digital counting scale with 0.01 gram readability to 250 grams and 1 gram readability to 5 kilogram capacity.,5,582,714,818,665,994,183,755,295,819,685,85,428
+Balances,490116,Model DLM2-1 2 pan balance.,32,227,7,74,885,303,974,906,402,131,971,642,967
+Analyzer,490022,Model DP-247E dual sample aggregation meter.,23,244,767,292,565,907,862,9,567,789,639,524,366
+Spectrophotometers ,490804,Model DU 530 Life Science UV/VIS spectrophotometer with standard Single Cell Module. Multi Cell  Flow Cell  Sipper Sampling and Pelletier Temperature Control Accessory modules included! Can also be priced with fewer modules.,75,446,638,751,809,922,921,858,893,474,339,90,826
+Spectrophotometers ,490805,Model DU640 UV/VIS spectrophotometer with 6 position cell holder and transport  6 position microcell holder and slit assembly accessory. Complete with monitor  mouse and printer.,94,284,804,622,119,274,566,103,25,19,157,937,811
+Balances,490117,Model E1200S electronic top loading balance with 0.001g readability and 1200 gram capacity. With round glass draft shield.,57,396,881,266,804,978,565,304,108,571,304,351,811
+Cell Harvesters,490337,Model ECM600 self-contained exponential decay electroporator.,55,371,515,430,803,59,109,874,629,868,152,537,835
+Balances,490063,Model EK4000H top loading electronic balance with 0.1 gram readability and 4000 gram capacity. Like new condition.,86,126,412,217,429,915,483,825,736,255,875,81,873
+Evaporators,490634,Model EL 141 rotary evaporator with 142 controller and B480 bath. Complete with glassware.,35,478,514,447,798,392,387,123,333,208,579,539,96
+Evaporators,490635,Model EL-1315 digital readout rotary evaporator complete with vertical water condenser  distribution head with Teflon valve  jack and bath.,30,805,59,849,423,666,432,139,1,526,293,191,928
+Evaporators,490636,Model EL131-E descending condenser rotary evaporator complete with expansion vessel  vertical water condenser  bath and jack.,49,733,338,476,124,686,428,79,359,843,354,20,691
+Balances,490064,Model ER120A semi micro balance .1mg/120gm.,65,939,24,77,48,748,130,646,614,3,969,235,435
+Centrifuges,490512,Model EXD  explosion proof design.,1,665,197,828,949,129,609,215,633,91,990,633,900
+Cell Disrupters,490294,Model FA078 French Press with FAO72 20 000 psi cell.,26,478,557,105,108,515,544,49,606,966,571,536,392
+Furnace,490676,"model FA1730 large chamber heavy-duty furnace. Chamber dimensions: 13.5""d x 9.5""w x 9.5""h  maximum temperature 1093C (2000F). Analog control.",96,476,51,338,347,407,565,364,14,777,86,509,203
+Furnace,490677,"Model FA1730 large chamber heavy-duty furnace. Chamber dimensions: 13.5""d x 9.5""w x 9.5""h: maximum temperature 1093C (2000 F)",89,711,977,800,73,138,481,657,332,203,379,717,72
+Ultrasonic Cleaners ,490823,Model FS-28 11 quart capacity ultrasonic cleaning bath with timer.,88,867,182,387,914,659,404,651,849,403,871,188,644
+Bath,490143,Model G-76 orbital shaking water bath.,1,615,676,346,834,807,860,486,625,330,96,439,223
+Chromatography,490599,Model GM-1 gradient mixer.,77,414,475,198,851,913,19,569,34,649,511,827,754
+Centrifuges,490408,Model GP8 centrifuge with 4 position rotor (no buckets) - Needs repair.,82,848,995,712,357,751,915,608,707,861,354,991,467
+Centrifuges,490513,Model GS6 tabletop centrifuge complete with swinging bucket rotor.,15,292,647,762,978,754,105,894,554,679,359,916,931
+Balances,490118,Model GT2100 electronic platform balance. 2100gm capacity,9,809,122,403,244,807,610,281,793,442,887,867,804
+Balances,490119,Model H51 electronic analytical balance with 0.1mg readability and 31 gram capacity.,0,236,162,328,662,81,419,984,752,506,319,26,567
+Balances,490065,Model HF2000 top loading electronic balance with draft shield. Readability 0.01g and capacity 2100 grams.,31,612,362,254,177,454,306,360,98,481,971,4,112
+Balances,490066,Model HM200 analytical balance with 0.1mg readability to 200 gram capacity.,42,679,829,659,765,254,6,868,265,973,644,507,909
+Centrifuges,490514,Model HNS tabletop non-refrigerated centrifuge. Up to 4 x 250 ml capacity with tachometer. Variety of rotors available.,24,723,536,562,565,788,377,98,813,631,486,80,362
+Microscopes,490730,Model ID02 inverted microscope with 2.5X and 25X objectives.,85,226,205,863,39,572,571,732,948,125,939,269,14
+Microscopes,490731,Model ID03 inverted  phase contrast microscope with 3.2X  10X phase and 20X phase objectives.,45,934,511,189,782,7,61,686,31,739,945,789,429
+Evaporators,490637,Model IR Dancer infrared light vortex evaporator with Hettlab Model Penguin 42 cold trap (-42oC).,46,914,625,224,707,680,411,911,113,141,910,839,554
+Centrifuges,490515,Model ISS high capacity DNA SpeedVac System. Complete with built-in teflon vacuum pump and -50oC vapor trap.,32,941,515,28,898,216,235,935,886,757,313,74,376
+Centrifuges,490516,Model J2-MI high speed  refrigerated  microprocessor controlled floor model centrifuge with induction motor. Variety of rotors available.,63,525,651,193,853,961,172,638,510,696,838,985,330
+Bath,490140,Model JB2  10 x 18 water bath.,64,591,746,972,192,418,784,752,562,200,64,682,857
+Bath,490139,"Model JB-2 water bath. 10"" wide x 18"" long x 3.5"" deep  polypropylene tank.",8,971,841,689,933,701,606,690,352,33,626,139,52
+Centrifuges,490517,Model K2 centrifuge.,71,97,428,934,35,379,339,706,141,979,261,341,145
+Centrifuges,490518,Model K2. (Floor Model) High capacity  non-refrigerated. A great buy! Variety of rotors for different tube sizes are in stock.,52,312,830,197,885,981,215,527,437,587,521,280,303
+Balances,490120,Model LC3200D top loading electronic balance with draft shield and dual ranges of .001g/1000g and .01g/3200g.,48,398,618,602,204,716,573,916,259,408,443,763,851
+Balances,490121,Model LC3400P top loading electronic poly range balance with 34 kg capacity and 0.1g readability.,22,817,680,320,284,547,933,959,335,762,928,182,356
+Balances,490122,Model LP2200S top loading electronic balance with RS232 interface  0.01g readability and 2200 gram capacity.,32,461,29,280,245,764,775,103,547,269,654,642,891
+Microscopes,490732,Model M8 parallel stereo microscope with 6X to 50X zoom range and bottom illumination.,97,776,80,472,222,798,801,464,553,314,464,781,504
+Centrifuges,490519,Model MP4R bench top refrigerated centrifuge with microprocessor controls. Variety of rotors available.,0,551,457,482,491,2,973,537,989,101,87,27,678
+Autoclave,490058,Model MS1000V tabletop autoclave with 10 inch chamber diameter.,38,925,860,619,797,212,146,430,668,672,82,925,439
+Balances,490123,Model MX5 microbalance with 0.1 microgram readability and 5100 mg capacity automatic temperature driven calibration and RS-232 interface.,61,949,930,783,125,482,575,661,90,789,70,35,945
+Gas Chromatographs,490678,Model N611-9000-1023-2 autosystem gas chromatograph with FID  ECD and autosampler.,50,755,132,194,791,135,878,560,707,349,505,718,80
+Reactors,490767,Model NA73CA 4 place hydrogenation apparatus.,76,764,843,643,998,504,213,185,950,703,850,395,71
+Glove Boxes,490699,Model NU 704-300 tabletop glove box with transfer chamber  HEPA air and interior stainless steel. Reconditioned with new gloves!,62,412,560,277,496,225,560,388,211,229,990,487,422
+Biohood,490281,Model NU407FM-500. 5' wide console type  Class IIA/B3 biological safety cabinet/biohood.,89,411,309,61,226,311,952,372,899,652,79,6,695
+Balances,490124,Model PB 303-S top loading electronic balance with 1mg readability and 310 gram capacity. Draft shield included,26,291,961,178,678,186,590,635,51,607,425,816,963
+Fermentors,490663,Model ph 40 controller,56,668,370,80,665,392,806,951,528,853,637,860,41
+Balances,490125,Model PJ3000 electronic top loading balance with 0.1g readability and 3000 gram capacity.,13,345,628,663,603,767,829,885,61,127,385,89,196
+Balances,490126,Model PM300 top loading electronic balance with .01 gram readability and 310 gram capacity.,19,310,670,401,986,742,669,169,559,903,628,629,905
+Bath,490231,Model PR 840 heating/circulating  14x9x10 inch deep chamber.,39,204,244,709,679,880,767,796,481,169,56,217,744
+Centrifuges,490520,Model PR6000 centrifuge.,17,620,315,840,856,557,49,101,118,997,563,722,687
+Evaporators,490638,Model R110C rotary evaporator complete with cold trap condenser  water bath and jack.,64,75,978,674,402,389,11,399,294,728,371,767,595
+Evaporators,490639,Model R114 rotary evaporator system complete with bath and horizontal water condenser.,0,236,382,541,160,431,535,773,847,67,951,858,225
+Evaporators,490640,Model R124 Safety VAP rotary evaporator complete with vertical water condenser  digital bath and LED display of bath temperature and rpm.,87,19,725,868,88,902,477,796,362,307,946,884,448
+Evaporators,490641,Model R-200C rotary evaporator. Complete with cold trap condenser  jack and bath.,3,869,44,267,435,586,639,208,171,351,319,772,470
+Evaporators,490642,Model R-205C digital readout rotary evaporator complete with cold trap condenser  jack and bath.,22,709,273,439,325,70,85,96,287,191,799,295,976
+Centrifuges,490521,Model RC10.10 centrifugal evaporator complete with 84 x 1.5ml microtube  32 x 20ml  and 2 place micro titration rotors.,13,399,436,398,22,488,778,578,580,314,105,997,801
+Evaporators,490643,Model RE-111 rotary evaporator with A type (diagonal water condenser) glassware. Complete with jack and bath.,61,926,852,604,242,343,923,512,475,332,237,586,471
+Evaporators,490644,Model RE-111 rotary evaporator with B type (vertical water condenser) glassware. Complete with jack and bath.,48,38,437,404,10,119,578,664,596,112,666,739,888
+Evaporators,490645,Model RE-111C rotary evaporator with C type (cold trap condenser) glassware. Complete with jack and bath.,97,451,89,293,485,838,396,904,651,790,225,677,88
+Evaporators,490646,Model RE-121B digital readout rotary evaporator complete with vertical water condenser  jack and bath.,67,524,784,872,794,666,515,208,542,934,104,190,261
+Spectrophotometers ,490806,Model RF-5000 spectroflourophotometer with DR-15 CPU  printer and monitor.,87,50,63,194,625,960,29,960,589,429,76,173,100
+Balances,490127,Model S4 electronic ultra-microbalance with .1microgram/4.02 gram capacity.,87,593,987,730,499,276,38,926,65,15,290,257,518
+Centrifuges,490522,Model SC 110 Plus Speed Vac with radiant cover RC110A accessory. Variety of rotors (sold separately) available.,27,183,141,843,61,444,447,882,750,961,955,511,334
+Centrifuges,490523,Model SC110A Plus Speedvac centrifugal evaporator. Variety of rotors (sold separately) available.,84,480,340,736,356,101,686,642,5,421,939,248,680
+Balances,490128,Model SC-2 ultra-microbalance with internal self calibration  0.1 microgram readability and 2.1 gram capacity. Printer included.,24,317,146,252,220,41,924,920,40,527,348,613,981
+Centrifuges,490524,Model SC210 Plus Speedvac centrifuge with four place microplate rotor and carriers. Other rotors available.,80,946,829,276,735,681,22,724,280,1,67,221,920
+Biohood,490254,Model SG600  Class II A/B3 biological safety cabinet.,85,548,913,949,806,544,533,750,67,340,620,554,724
+Biohood,490253,Model SG-600 Class II A/B3 biological safety cabinet.,74,583,977,293,110,602,710,1,349,117,448,369,286
+Autoclave,490059,Model SM-22 top loading portable sterilizer/dryer. Stainless steel chamber,29,85,798,726,922,59,391,970,8,362,362,562,485
+Microscopes,490733,Model Standard 16 trinocular  phase contrast microscope with 10x ph1  40x neofluor ph2 and 100x neofluor ph3 objectives.,97,791,486,422,237,913,95,922,398,874,247,94,384
+Autoclave,490036,"Model STME with 0 to 60 minute timer. Chamber dimensions: 16"" diam. X 26"" deep. Temperature up to 121C and operating pressure of 15 psi.",5,465,480,613,892,687,869,826,279,907,145,668,473
+Bath,490232,"Model SWB 20 reciprocal shaker. Up to 26 liter capacity. Temperature range: ambient to 100C. Bath dimensions: 12""x20""x7""d.",12,149,768,693,327,792,140,287,480,200,577,691,430
+Centrifuges,490525,Model SZ-14 zonal rotor for high speed centrifuges.,24,188,462,278,850,221,377,431,47,665,212,870,438
+Cell Disrupters,490314,Model TMS 500 complete with converter  horn and sound enclosure.,6,782,196,502,564,213,386,827,410,771,887,602,259
+Chromatography,490600,Model V4 variable wavelength UV chromatography monitor with 5mm pathlength cell.,97,322,154,442,531,389,678,378,541,838,768,435,911
+Biohood,490282,Model VBM600 Sterilgard biosafety cabinet. 6' wide Class II A/B3 biohood with retractable legs.,44,819,299,99,383,993,97,997,720,957,767,540,632
+Centrifuges,490526,Model VS-13 variable speed micro centrifuge.,77,94,772,395,464,591,155,597,887,774,221,832,541
+Centrifuges,490527,Model VSB-14 variable speed microfuge.,13,306,420,891,987,140,617,256,77,152,991,362,854
+Bath,490233,Model W14 water bath.,6,324,950,833,921,195,13,976,44,345,871,126,627
+Bath,490138,Model W2975G  6 x 12 inch water bath with cover.,83,320,11,542,786,218,47,3,100,110,678,243,344
+Autoclave,490060,"Mona 10"" diameter x 16"".",64,75,920,271,157,873,148,100,853,359,203,67,313
+Microscopes,490734,monocular microscope with 10x eyepiece and 10x objective with mirror.,47,578,400,248,338,999,245,926,204,937,629,323,56
+Centrifuges,490528,MRX-151 refrigerated microfuge.,44,310,890,158,762,293,32,472,416,675,539,782,975
+Centrifuges,490529,MTX-150 high speed refrigerated micro centrifuge. 15 000 RPM with TMA 4 rotor. TMS-4 swinging bucket rotor also available.,30,593,870,756,602,922,849,992,432,816,158,280,619
+Chromatography,490601,multiplexer Model ll33,73,774,853,18,19,945,425,894,929,266,452,899,774
+Evaporators,490647,Multivap Model 114,10,892,904,478,145,473,388,56,293,721,428,572,967
+Analyzer,490023,N Wood RF600 ser 179 analyzer,52,634,738,873,873,677,596,419,992,63,679,522,500
+Cell Disrupters,490315,N2 type cell disrupter,88,440,890,434,704,234,957,887,711,485,840,920,829
+Evaporators,490632,N842 two stage Teflon Vacuum System with microprocessor controller  34 lpm.,17,1,196,760,487,438,690,860,109,354,10,568,264
+Centrifuges,490395,nac II tabletop centrifuge with 4 x 50ml fixed angle rotor.,86,268,547,926,318,636,711,152,174,522,699,240,155
+Centrifuges,490396,nac II tabletop centrifuge with tachometer. Rotor and shields included!,86,661,799,895,351,355,767,907,325,589,237,494,400
+Centrifuges,490397,nac II with 24 place fixed angle rotor.,11,506,144,359,516,926,19,459,354,795,125,80,45
+Centrifuges,490398,nac with 24 place rotor.,99,968,491,238,518,905,632,400,482,558,571,135,826
+Centrifuges,490399,nac with rotor,34,351,564,969,450,627,13,938,95,953,606,71,274
+Desiccators,490610,Nalgene vacuum dessicator with H rack,81,723,558,115,925,790,266,531,173,132,19,491,133
+Microscopes,490703,nazoom  10-43-97x trinocular microscope.,82,433,441,301,109,785,389,458,437,35,72,149,83
+Evaporators,490649,N-Evap  Model 111  complete with bath.,70,506,828,724,410,20,26,937,386,937,328,275,703
+Evaporators,490650,N-Evap  Model N112  24 place evaporator complete with bath.,58,830,378,951,621,345,660,413,461,368,136,285,417
+Evaporators,490648,N-Evap Model 111 complete with heated bath  gas flow meter and 12 coated nozzles.,12,713,120,565,158,280,295,681,217,364,445,74,739
+Microscopes,490735,nose 10-20-40-100 s plan,32,812,466,268,318,731,853,726,50,530,910,679,955
+Microscopes,490736,nose 10-20-50 ms plan,78,535,627,462,974,277,759,185,357,638,829,360,144
+Biohood,490283,Nua 407 console  Class IIA biohood.,54,412,176,585,783,884,559,138,324,189,241,800,592
+Biohood,490284,Nua 425-600 Class IIA biohood without stand.,80,746,699,939,555,401,841,132,873,682,719,924,579
+Biohood,490262,Nua Model 201-430 bench top  Class 100  horizontal laminar flow clean bench with stainless steel work surface.,85,872,872,144,313,950,807,56,460,937,773,446,375
+Biohood,490285,Nua Model 425-400 Class II A/B3 bench top biological safety cabinet/biohood.,48,902,545,745,83,383,652,590,34,293,911,456,92
+Biohood,490287,Nua Model 425-600  Class II!/B3 biological safety cabinet (stand not shown in photo) with exhaust transition.,63,94,675,858,369,264,690,193,478,700,849,69,743
+Biohood,490286,Nua Model 425-600 Class IIA/B3 biohood/biological safety cabinet with stand. (Stand not shown in photo),33,951,304,656,694,202,922,297,534,395,919,528,550
+Biohood,490288,Nua Model NU201 horizontal laminar flow clean bench. Two can be combined to make 10 foot wide clean bench!,35,587,604,592,180,554,912,400,282,994,266,611,605
+Biohood,490289,Nua NU817-300  Class I bio hood.,49,292,205,392,507,718,721,603,755,73,698,183,318
+Centrifuges,490530,NVT65 vertical tube ultracentrifuge rotor.,24,818,673,587,783,594,827,989,576,170,165,474,208
+Microscopes,490737,O Series 110 compound microscope with 4x  10x  40x and 100x oil objectives and 10x eyepieces.,83,848,55,621,61,646,690,351,363,360,446,316,742
+Autoclave,490032,OCM tabletop autoclave. Chamber 8 inches diameter x 14 inches deep.,83,595,381,566,67,995,60,365,389,66,535,35,279
+Autoclave,490033,"OCR autoclave. 9"" diameter x 18"".",10,475,86,464,859,439,968,547,740,321,123,932,458
+Centrifuges,490531,OFFER - $4500. Sorvall RC5B high speed (20 000 rpm) refrigerated  floor model centrifuge  fully reconditioned! Variety of rotors available. Call for package price combining this special offer with rotor.,78,952,595,947,581,269,998,942,992,130,805,954,648
+Evaporators,490651,older style Model R rotary evaporator complete with A type glassware (diagonal water condenser)  jack and bath.,34,866,482,240,139,610,420,517,683,256,295,59,188
+Centrifuges,490532,Omnif 2.ORS with 4 x 500 ml rotor and buckets.,17,397,673,466,5,711,965,486,652,653,514,419,792
+Centrifuges,490403,Omnife RT bench top  programmable  refrigerated centrifuge with up to 4 x 450 ml capacity and a maximum speed of 6000 rpm (6240xg RCF).,68,393,222,290,848,505,312,664,637,56,66,99,59
+Microscopes,490739,Optical 4  binocular  3 objective microscope.,22,700,410,559,200,52,321,141,513,37,168,542,165
+Microscopes,490738,Optical 4 head teaching microscope (w/o AO 10),96,913,379,29,903,751,94,241,426,801,65,996,302
+Microscopes,490740,Optical Model 570 stereo microscope with mirror base for bottom light  7x to 42x magnification.,55,772,766,431,858,530,23,142,704,588,51,683,801
+Microscopes,490741,Optical Series 10  10-43-100x oil,3,194,466,629,394,264,528,336,799,736,719,184,283
+Centrifuges,490533,Optim L-80 floor model  refrigerated ultracentrifuge.,1,428,492,201,544,196,191,581,643,862,38,685,101
+Centrifuges,490534,Optim XL-80 floor model ultracentrifuge.,38,973,464,750,754,692,282,639,183,972,852,325,174
+Centrifuges,490535,Optim XL-90 floor model ultracentrifuge.,26,342,590,166,381,449,717,703,907,611,597,602,575
+Microscopes,490742,Orth 4 objective trinocular microscsope.,19,309,682,940,833,151,210,44,289,89,693,197,797
+Spectrophotometers ,490807,P/N 21500 variable temperature cell for IR spectroscopy  -190oC to 250oC.,64,389,997,827,41,19,559,449,724,977,504,772,940
+Chromatography,490602,P500 pump,10,564,684,587,565,436,983,604,767,489,462,553,389
+Analyzer,490024,Pal II pH and blood gas analysis system.,27,447,798,321,289,362,736,865,852,314,183,466,983
+Spectrophotometers ,490808,parts,64,224,687,828,491,220,197,946,950,611,294,127,56
+Balances,490129,PC440 electronic top loading balance  dual range: .001g sensitivity with 40g capacity and .01g sensitivity with 440g capacity.,50,443,350,705,686,865,803,168,405,104,122,40,866
+Balances,490130,PE3000 electronic top loading balance with 0.1g readability and 3100 gram capacity.,3,333,66,904,499,119,985,228,81,880,704,858,837
+Balances,490131,PE3600 electronic top loading balance with dual range readability of .01g to 600g and 0.1g to 4000 grams.,24,520,827,261,545,308,274,285,91,519,346,786,598
+Desiccators,490611,plastic vacuum dessicator with cover and plate,90,886,342,8,238,984,581,155,856,305,993,422,799
+Desiccators,490612,plastic vacuum dessicator with cover and stand,16,60,51,695,413,418,981,241,955,591,804,970,812
+Cell Disrupters,490316,Poly Model 10/35 mechanical homogenizer complete with PCU-2-110 control  sound housing  stand and generator.,91,976,993,437,925,966,112,318,321,329,152,857,748
+Cell Disrupters,490317,Poly Model PT 10/35 homogenizer/cell disrupter complete with PCU control  stand and generator.,19,425,716,889,134,6,516,545,836,971,256,166,455
+Cell Disrupters,490318,Poly Model PT 10/35 homogenizer/cell disrupter with PCU-2110 control and stand. Without generator.,60,475,676,52,739,48,249,354,14,588,827,24,872
+Cell Disrupters,490319,pressure cell disrupter,75,740,873,276,855,237,169,104,882,866,706,720,140
+Balances,490096,Pro Series Model 12000S electronic top loading balance with 0.1g readability and 12000 gram capacity. Like new condition.,48,128,26,425,130,418,72,0,616,821,444,423,619
+Balances,490097,Pro Series Model LP12000P top loading electronic balance with readability of 0.1g to 3000 grams,8,202,429,725,843,65,581,54,998,116,729,697,706
+Cell Disrupters,490320,proof enclosure,58,331,60,521,118,624,256,153,632,682,527,257,989
+Cell Disrupters,490321,PT10-35 cell disrupter/homogenizer with PCU-2 control  complete with stand and probe.,61,264,877,438,499,914,824,926,708,952,823,561,991
+Cell Disrupters,490322,PT3000 with stand  without generator,96,750,172,439,983,234,575,458,466,197,57,770,143
+Biohood,490274,Purifier II tabletop Class IIA biological safety cabinet/biohood with uv light.,94,930,436,336,538,13,324,583,388,6,928,984,69
+Biohood,490260,Purifier II tabletop Class IIA biological safety cabinet/biohood. Current certification sticker included!,87,614,97,978,362,118,711,988,924,358,503,478,878
+Chromatography,490603,Quick Quant III,91,146,348,707,840,753,756,713,708,892,811,424,996
+Evaporators,490652,R-110 rotary evaporator complete with cold trap condenser  bath and jack  photo typical.,82,288,910,145,492,657,238,894,869,259,768,853,224
+Evaporators,490653,R-114 rotary evaporator complete with bath and cold trap condenser.,99,842,489,731,118,553,595,713,30,827,900,319,29
+Balances,490132,R160P semi-micro balance  0.05mg/162g and 0.01mg/30 gram ranges. RS232 interface.,36,25,725,571,805,223,849,75,515,371,790,331,602
+Balances,490133,R200D semi-micro balance  0.1mg/205g and 0.01mg/42 gram ranges. RS232 interface.,97,196,550,902,536,626,970,913,77,166,637,539,288
+Centrifuges,490536,R32-13 fixed angle rotor SVC100/SC110 series speedvacs.,66,660,433,387,305,440,470,219,970,86,38,543,625
+Bath,490144,R76 shaker bath.,33,571,865,661,265,361,823,457,772,890,341,70,729
+Centrifuges,490537,RC M120 ultra centrifuge (no rotor),9,453,271,252,103,997,663,497,458,880,112,833,536
+Balances,490134,RC2022 top loading electronic balance. 2000 gram capacity / .01 gram sensitivity.,17,369,280,60,724,350,541,126,55,156,432,224,980
+Centrifuges,490538,RC-24 centrifuge,26,642,564,395,176,876,743,337,814,923,512,407,175
+Centrifuges,490539,RC2B centrifuge,70,816,894,547,808,14,963,45,56,221,818,498,588
+Centrifuges,490540,RC-3 refrigerated centrifuge with 4x1 liter rotor.,46,378,991,583,374,627,626,385,977,711,352,584,272
+Centrifuges,490541,RC3B high capacity  refrigerated floor model centrifuge complete with H2000 rotor and buckets (8 place x 250 ml with adapters).,42,191,116,221,740,385,54,442,610,199,750,508,359
+Centrifuges,490542,RC-3B high capacity  refrigerated floor model centrifuge complete with H6000 rotor and buckets (6 place x 1 liter).,17,493,631,849,791,957,464,418,796,875,156,978,656
+Centrifuges,490543,RC3B high capacity  refrigerated floor model centrifuge complete with HL-2B tube rack rotor.,61,520,382,319,914,862,980,92,797,4,938,877,808
+Centrifuges,490544,RC3C Plus  refrigerated high capacity centrifuge with HL-2B tube rotor or H6000A 6x1 liter wind shielded rotor.,29,36,802,84,100,151,339,811,218,340,447,916,258
+Centrifuges,490545,RC5 centrifuge,62,299,858,810,395,845,938,357,208,844,158,233,373
+Centrifuges,490546,RC5B floor model  high speed refrigerated centrifuge. Up to 20 000 rpm. Variety of rotors available.,80,447,890,109,932,277,881,786,5,569,394,509,482
+Centrifuges,490547,RC5C microprocessor controlled high speed (up to 20 000 rpm) floor model refrigerated centrifuge.,96,803,22,764,65,466,781,529,382,862,738,592,749
+Evaporators,490654,RE-120 rotary evaporator complete with glassware  bath  stand and A type water condenser.,4,599,866,318,374,90,313,247,874,300,725,670,340
+Evaporators,490655,RE-121C digital readout rotary evaporator complete with cold trap condenser  jack and bath.,59,846,939,958,234,469,986,945,378,192,859,124,987
+Evaporators,490656,RE-51 evaporator with drive  stand and bath.,84,850,914,334,228,959,861,437,142,321,761,374,675
+Centrifuges,490548,RH 40-11 rotor for SVC100  SC100  centrifuges.,51,903,150,342,897,954,935,719,582,247,109,756,787
+Centrifuges,490379,RH200-12 plastic rotor for 200 each 12x75mm tubes or 126 each 13x100 mm tubes or 200 each 1.5ml micro centrifuge tubes. For SVC200/SC210 series centrifuges.,7,549,487,827,731,494,947,437,784,215,572,903,792
+Centrifuges,490380,RH20-12 with tubes,78,834,349,416,447,571,112,580,576,823,704,162,532
+Centrifuges,490381,RH20-12 without tubes,9,410,685,963,709,360,384,483,489,789,207,732,594
+Centrifuges,490382,RH24-18,95,350,129,355,896,267,656,334,501,477,882,255,334
+Centrifuges,490383,RH32-18-150,64,718,466,863,434,11,671,87,71,855,769,949,601
+Centrifuges,490384,RH50-287,9,697,304,656,387,911,270,560,977,55,545,915,850
+Reactors,490768,RMaxi reaction instrument.,8,401,12,981,352,347,504,18,615,377,608,473,813
+Evaporators,490657,rotary evaporator - complete,16,712,908,69,775,220,645,565,74,318,229,22,226
+Evaporators,490658,rotary evaporator - complete,16,445,303,777,883,960,208,24,666,456,939,623,40
+Desiccators,490623,round  8 inch diameter dessicator.,49,34,566,263,374,67,843,648,593,949,755,352,281
+Centrifuges,490549,RT6000B with H1000B rotor. Refrigerated tabletop centrifuge with 4 place H1000B rotor and 4x250ml buckets. Max speed with H1000B 3200rpm; -5 to +25oC. Microplate carriers available!,0,702,895,870,47,775,515,994,292,470,411,222,248
+Centrifuges,490550,RT6000D tabletop refrigerated centrifuge with H1000B swinging bucket rotor.,43,852,863,971,5,590,585,780,999,296,326,64,160
+Cell Disrupters,490323,S45 homogenizer,61,850,91,730,461,10,434,623,831,325,308,909,590
+Centrifuges,490551,SA600 rotor. (12x50 ml),39,754,297,975,952,523,332,934,528,711,32,549,268
+Centrifuges,490400,Safety-Head centrifuge. Table model with 6 x 15 ml fixed angle rotor. Provides speeds from 1475 to 3030 rpm.,88,775,22,754,762,481,479,671,338,28,541,836,805
+Centrifuges,490552,SC210A Speec Vac Plus centrifugal vacuum evaporator. For accessories see Traps  Rotors  Vacuum Pumps  or call for details. Complete systems available.,57,622,607,120,156,758,431,602,192,486,825,147,323
+Cell Harvesters,490338,SD-48 Auto Deposit/Dispense System,97,440,423,182,858,570,692,388,380,914,657,256,17
+Centrifuges,490553,SE-12 high speed centrifuge rotor  12 place by 14ml capacity.,81,160,556,31,123,213,513,319,769,388,460,376,780
+Ultrasonic Cleaners ,490824,"SE-40 ultrasonic cleaner  6"" x 6"" x 3"" deep chamber.",20,698,233,893,483,798,688,27,432,882,877,287,56
+Desiccators,490619,Seal  150 mm  ID vacuum dessicator.,66,646,400,407,490,553,533,783,286,551,457,531,522
+Analyzer,490025,Sedigraph 5000ET analyzer,18,216,996,893,31,697,153,928,664,143,947,41,941
+Autoclave,490031,self contained steam autoclave with 16 inch diameter chamber  reconditioned and complete with stand!,9,7,941,739,406,580,755,99,31,112,836,164,968
+Analyzer,490026,Semi-Automatic Cleveland Open Cup (ASTM D92) and closed cup flash point tester. Like new condition! Tag closed cup module included.,90,275,751,159,315,459,38,342,705,833,761,290,42
+Analyzer,490027,Seralyzer Model 5181.,48,162,932,823,340,309,795,67,903,960,66,247,776
+Gas Chromatographs,490689,Series II gas chromatograph with dual flame ionization detectors and HP3396A integrator.,37,923,540,918,745,992,881,55,553,389,765,324,570
+Centrifuges,490401,Serofuge with rotor,93,736,664,209,46,225,264,667,506,159,273,802,563
+Centrifuges,490554,SFR 13K refrigerated tabletop micro centrifuge.,33,175,634,348,269,794,608,152,719,722,201,263,794
+Biohood,490290,SG400  4' wide Sterilgard Class II A/B3 biological safety cabinet with retractable legs.,27,639,469,414,231,413,503,856,769,714,395,376,796
+Bath,490234,shaker bath Model YB 521.,55,102,152,567,538,965,903,360,858,254,699,404,342
+Bath,490165,shaker/water bath with cover.,21,259,653,676,1,14,912,658,257,712,283,259,886
+Bath,490166,shaking bath (catalog number 51221076) with microprocessor control.,38,600,470,546,267,618,748,283,808,498,145,866,776
+Gas Chromatographs,490679,Sig 2000 dual FID GC,45,920,313,32,824,13,124,870,297,942,811,116,925
+Gas Chromatographs,490690,Sig 3B FID & TCD GC,83,113,255,223,129,197,822,195,257,832,589,854,74
+Centrifuges,490555,SL-250T rotor,48,725,44,174,624,475,493,504,648,821,532,943,174
+Centrifuges,490556,SL-500T SuperLite 4 x 250 fixed angle rotor for high speed centrifuges. 14 500 maximum rpm.,36,280,289,817,729,149,304,552,815,752,301,344,642
+Centrifuges,490557,SLA-600TC ultralite  12 place x 50ml fixed angle high speed centrifuge rotor.,78,978,525,572,122,596,619,540,27,296,252,476,234
+Centrifuges,490391,SM24,26,513,137,958,810,403,325,480,453,558,930,431,60
+Microscopes,490743,SMZ-10T trinocular stereozoom microscope wih 6.6X to 40X zoom range and Dolan Jenner high intensity filter optic ring illuminator.,59,288,83,807,160,693,907,688,825,579,232,788,273
+Bath,490235,SP boiling water bath  catalog W3022  capacity 1 liter.,27,486,780,263,100,426,318,167,706,758,749,231,665
+Spectrophotometers ,490785,Spec 20,44,112,850,536,76,862,325,787,299,103,405,909,193
+Spectrophotometers ,490771,Spec 20 spectrophotometer.,79,533,672,577,938,281,315,560,708,827,642,39,816
+Spectrophotometers ,490769,Spec 20 visible range spectrophotometer.,17,0,730,473,384,118,336,231,868,722,748,724,407
+Spectrophotometers ,490770,Spec 20 visible range spectrophotometer. Spectral range  340 to 600nm.,42,205,325,106,797,51,770,409,345,807,67,478,784
+Spectrophotometers ,490786,Spec 20D digital  visible range (340-600 nm) spectrophotometer.,46,844,768,709,915,978,630,894,610,375,918,906,22
+Spectrophotometers ,490772,Spec 21 DV 340/1000nm spectrophotometer.,82,902,141,647,615,599,31,582,846,786,229,408,753
+Spectrophotometers ,490773,Spec 21 DV spectrophotometer with GP sample,38,274,422,728,72,898,898,79,508,98,469,423,621
+Spectrophotometers ,490774,Spec 21 Model DUV single reading UV spectrophotometer.,23,449,362,209,210,530,359,459,444,962,989,24,932
+Spectrophotometers ,490809,spectroscope Model 1,14,834,806,993,674,897,223,877,380,829,351,480,440
+Centrifuges,490558,Speed microfuge complete with HSR 36 (36 place x 1.5ml) rotor.,14,814,764,785,759,143,112,309,252,290,987,964,953
+Centrifuges,490559,Speedvc dryness control.,21,404,986,983,458,183,7,646,161,833,175,175,836
+Centrifuges,490560,SS34 8X50ml fixed angle  max 20 000 rpm rotor for high speed centrifuges.,19,731,765,887,697,471,681,642,471,140,928,854,569
+Bath,490236,stainless steel water bath.,75,61,477,731,299,926,280,916,169,323,760,860,970
+Bath,490237,stainless steel water bath.,13,188,374,559,406,779,858,586,150,993,285,928,825
+Desiccators,490624,stainless steel/glass dessicator cabinet. One cubic foot capacity. Complete with shelf.,62,914,859,529,836,815,152,657,103,208,716,109,598
+Microscopes,490744,Standard 16 trinocular microscope with 4-16-40-100x objectives.,39,948,338,618,663,380,654,764,645,770,985,820,593
+Microscopes,490745,Standard trinocular microscope with phase contrast  fluorescence  35mm camera  M63 camera control  10X  25X  100X neofluor and 40X phase neofluor objectives.,54,822,729,261,545,410,898,320,137,84,826,786,510
+Spectrophotometers ,490811,Stas II spectrophotometer with pump.,24,818,88,981,773,28,297,87,611,868,721,656,58
+Spectrophotometers ,490810,Stas spectrophotometer with pump.,77,966,777,758,777,727,116,754,83,548,732,805,831
+Microscopes,490706,stereo  4 pod  grey  head only.,29,751,871,804,429,184,124,683,168,479,791,479,33
+Microscopes,490707,Stereo 4  .7-3x zoom  complete with A type stand.,47,695,105,831,761,957,512,959,810,177,495,428,918
+Microscopes,490704,Stereo 4  with SK stand and ER arm.,16,660,924,800,773,16,786,484,233,586,83,689,441
+Microscopes,490708,Stereo 7 stereo microscope with 7 to 70x magnification.,63,621,59,160,127,812,341,355,162,108,458,194,807
+Microscopes,490705,Stereo 7 with SK stand and ER arm,93,767,267,579,107,41,719,611,284,38,983,437,484
+Microscopes,490746,Stereo r Zoom,11,308,860,664,894,806,178,628,325,527,919,715,455
+Biohood,490245,Sterilchem Class II B2 hood. 100% exhaust biohood. For use with biological agents treated with toxic chemicals and radionuclide per NSF standard #49.,20,243,778,723,840,652,654,772,79,910,342,504,598
+Analyzer,490028,Surfsc analyzer,18,4,717,388,672,381,518,223,805,159,483,71,346
+Centrifuges,490561,SVC 100H centrifugal evaporator. Order rotor(s) separately.,41,585,141,52,37,263,816,839,263,192,101,834,336
+Centrifuges,490562,SVC 200H Speedvac concentrator. Order rotors separately.,46,889,771,68,635,990,856,98,946,756,476,861,45
+Centrifuges,490563,SW 40Ti ultracentrifuge rotor.,9,691,186,928,780,964,910,105,973,53,299,753,287
+Centrifuges,490348,SW24.1,20,519,139,545,586,551,56,647,426,625,314,891,62
+Centrifuges,490349,SW28 ultracentrifuge rotor complete with buckets.,86,473,538,268,991,922,502,985,469,532,737,503,55
+Centrifuges,490350,SW40Ti ultra without buckets,63,948,732,41,80,361,677,758,629,86,809,89,734
+Centrifuges,490564,SW41Ti swinging bucket  titanium ultracentrifuge rotor.,99,619,711,412,761,229,299,581,904,349,523,916,325
+Centrifuges,490351,SW50  5 bucket (1863),88,503,37,783,46,485,164,323,854,726,184,862,649
+Centrifuges,490565,SW50.1 ultracentrifuge rotor; 6x5 ml capacity.,97,488,986,84,120,391,325,102,759,18,415,353,908
+Centrifuges,490352,SW55 ultra without buckets.,15,224,248,33,455,857,445,693,159,162,325,787,410
+Centrifuges,490566,SW55Ti swinging bucket  titanium ultracentrifuge rotor.,18,965,258,5,319,338,604,331,680,161,69,483,752
+Centrifuges,490567,SWJ 120 water jet centrifuge.,37,859,346,355,433,106,107,773,818,8,599,8,772
+Fermentors,490670,System 1 cell culture,50,495,721,731,190,141,143,290,684,214,737,125,642
+Fermentors,490667,System fermenter,88,639,284,347,340,161,146,144,802,837,909,637,98
+Microscopes,490747,Systems 5006 Cryette A,99,623,685,799,147,59,523,780,640,829,13,65,675
+Cell Disrupters,490324,Systems W140 power supply only,14,605,718,166,814,397,531,98,942,979,330,742,169
+Chromatography,490604,t/c multispotter,79,575,721,108,948,498,245,133,422,843,772,873,348
+Centrifuges,490568,T-885 ultracentrifuge rotor.,70,929,511,679,754,437,326,113,904,731,492,532,906
+Centrifuges,490353,TA10,33,577,37,990,383,665,150,454,272,973,286,616,406
+Centrifuges,490569,TA-24 rotor.,61,505,6,962,467,387,74,773,640,157,335,665,823
+Analyzer,490029,tablet tester with stand,78,971,527,753,3,677,783,293,44,559,660,358,209
+Centrifuges,490570,tabletop centrifuge with 6 x 15ml rotor.,41,218,106,621,665,164,304,20,447,450,874,80,507
+Chromatography,490605,tanks,45,90,692,724,272,90,723,344,404,175,246,179,649
+Centrifuges,490571,Techno centrifuge,22,14,576,212,250,56,612,611,457,418,865,794,90
+Bath,490238,Tek II  5 x 7 tissue floatation bath.,51,229,568,125,545,816,46,713,720,761,220,883,378
+Microscopes,490748,Telel 31 inverted  trinocular phase contrast microscope with 5X  10X phase  20X LDN phase  40X plan LDN phase objectives.,62,570,325,63,912,972,837,79,845,326,866,952,700
+Microscopes,490749,Telel 31 inverted  trinocular phase contrast microscope with green & blue filters. Objectives: 5X achromat  10X achromat  20X planachromat LDN ph.,59,861,271,132,193,756,812,81,686,203,955,481,851
+Centrifuges,490392,TFT 50.38 ultra,32,557,709,304,526,988,507,795,259,17,102,48,514
+Centrifuges,490393,TFT 80.13 ultracentrifuge.,55,81,913,167,818,875,601,229,934,933,723,780,872
+Analyzer,490030,TGA50 programmable thermo gravimetric analyzer with stand alone functionality or capability of computer interface.,89,170,842,951,179,114,223,610,379,201,183,100,633
+Analyzer,490002,TGA-7 thermogravitmetric analyzer.,90,805,590,489,536,662,237,154,240,592,474,780,864
+Chromatography,490597,Thin Layer Scanner,29,547,323,315,59,129,473,558,213,320,317,525,4
+Centrifuges,490354,Ti 15 zonal,23,965,530,94,897,957,532,839,277,323,332,951,225
+Centrifuges,490572,TJ6R centrifuge with TH4 rotor.,78,764,45,945,367,328,63,283,484,77,290,815,422
+Centrifuges,490573,TJ6R tabletop refrigerated centrifuge with 4x500ml rotor and buckets.,3,58,67,113,697,816,960,289,339,70,365,477,287
+Chromatography,490606,TLC Scanner,41,884,497,576,910,405,478,121,986,675,694,704,799
+Microscopes,490750,TMS 2010 microscope.,42,376,875,963,754,552,916,191,371,191,934,884,217
+Centrifuges,490574,TMS-4 4 position swinging bucket rotor for 1ml tubes. 15 000 RPM. For Tomy MTX-150 micro centrifuge.,83,456,955,994,423,217,668,183,914,735,904,830,179
+Balances,490067,top loading digital balance. 310 gm capacity,36,162,16,939,242,268,375,874,246,806,490,738,836
+Balances,490135,top loading electronic balance with 1mg readability and 500 gram capacity.,75,98,226,110,896,140,755,108,991,982,406,8,163
+Microscopes,490721,trinocular  2.5-32x microscope.,83,884,662,769,867,572,132,579,975,264,714,868,849
+Microscopes,490751,trinocular  black.,69,551,400,869,389,233,603,560,635,888,711,679,729
+Balances,490069,Triple balance. Two pan type; ideal for comparative weighing. Capacity 2000 grams,69,751,849,857,131,247,976,130,511,205,929,791,234
+Bath,490239,TropiCooler with Pelletier Thermoelectric heating and cooling. Microprocessor controlled  -19 to 69oC range. Model 260014.,23,506,307,820,465,29,946,946,709,62,317,269,709
+Cell Disrupters,490325,Turax T45 cell disrupter,10,312,993,573,166,715,735,452,826,67,439,385,778
+Centrifuges,490355,Type 19  high capacity ultracentrifuge rotor.,64,418,691,356,888,503,837,872,850,459,346,749,208
+Centrifuges,490356,Type 21 ultra,94,312,946,110,276,502,531,251,693,749,931,349,681
+Centrifuges,490357,Type 30 ultra,82,971,657,288,838,404,614,617,232,920,22,730,616
+Centrifuges,490575,Type 55.2 Ti titanium ultracentrifuge rotor.,9,795,534,943,134,886,631,126,698,624,280,531,965
+Centrifuges,490576,Type 60Ti titanium ultracentrifuge rotor.,19,739,119,391,788,832,785,359,249,185,664,398,232
+Microscopes,490752,U11 metallograph microscope.,33,916,642,606,377,597,385,965,810,544,376,262,175
+Spectrophotometers ,490812,U-1100 uv/vis spectrophotometer with cell.,99,564,5,549,110,91,823,428,885,194,218,475,361
+Centrifuges,490358,ultra 40.3,35,399,270,501,425,654,991,765,154,725,482,320,562
+Centrifuges,490578,Ultra 80 80 000rpm microprocessor controlled  refrigerated  floor model ultracentrifuge.,37,285,413,241,131,3,613,863,628,665,398,870,625
+Centrifuges,490577,Ultra 80 80 000rpm ultracentrifuge.,51,190,960,570,386,950,969,594,60,113,331,411,946
+Cell Disrupters,490326,Ultra Model T-25 dispenser/homogenizer complete with stand and dispersing tool.,87,699,118,682,437,222,124,764,298,789,482,585,913
+Centrifuges,490359,Ultra SW27  6x38.5ml.,51,210,783,941,294,410,947,301,697,333,182,255,355
+Spectrophotometers ,490813,Ultro III uv/vis spectrophotometer with 6 position water heated cell changer.,45,616,555,22,152,488,867,792,444,583,39,935,358
+Spectrophotometers ,490814,Ultro uv/vis spectrophotometer with 6 place cell holder  scanning  printer  200 to 900 nm range.,36,371,317,296,399,394,202,407,559,905,264,701,74
+Microscopes,490753,Universal  phase and fluorescence.,5,254,681,346,940,389,413,736,894,213,552,484,371
+Bath,490167,urabath W2975-14 water bath with 12x13 inch chamber and plastic cover.,74,173,520,619,709,414,278,555,433,398,495,158,454
+Bath,490168,urabath W2975-20. 20 x 12,2,938,719,84,463,139,892,304,944,214,552,568,331
+Chromatography,490607,UV-1 monitor with 254 nm filter.,98,925,175,867,992,384,912,633,237,168,39,976,686
+Chromatography,490608,UV1 monitor with optical unit  control unit  and 280nm filter.,43,85,600,874,315,204,965,620,775,854,99,752,411
+Centrifuges,490360,VAC 50 vert. Ultra,44,768,611,175,570,379,162,147,763,352,428,23,733
+Evaporators,490659,Vacobox B-177 PTFE oil free vacuum pump and controller.,40,544,626,523,642,138,945,226,507,769,882,508,427
+Desiccators,490625,vacuum dessicator  medium,99,317,152,21,383,511,746,75,775,813,757,999,919
+Autoclave,490035,Validar Plus tabletop sterilizer.,0,514,801,695,632,114,499,65,849,271,877,212,430
+Autoclave,490034,Validat 10.,44,998,91,886,158,681,73,344,749,867,352,294,226
+Chromatography,490609,Vanta column 6.0cm,21,132,516,465,634,78,661,927,390,754,520,515,863
+Biohood,490291,VBM 400 biohood. 4' wide  Class IIA/B3 biosafety cabinet with retractable legs.,40,307,354,738,33,251,987,723,785,518,555,517,979
+Autoclave,490061,vertical 14 x 26 inch autoclave.,87,263,586,346,341,621,576,272,201,275,938,731,177
+Biohood,490255,vertical laminar flow hood/clean bench complete with base and work surface. Shown without base and work surface.,35,275,787,557,556,642,146,26,742,864,438,81,730
+Cell Disrupters,490327,Virtir Model 225318 mechanical homogenizer/cell disrupter complete with stand and generator.,52,497,429,402,812,517,208,598,758,242,880,650,833
+Cell Disrupters,490328,Virtir Model 225326 homogenizer/cell disruptor  complete with stand and generator. .,82,372,761,551,574,233,39,446,282,731,0,111,893
+Centrifuges,490579,VTi50 vertical tube  titanium ultracentrifuge rotor.,9,743,397,913,35,157,427,324,445,215,531,638,436
+Centrifuges,490580,VTi65.2 ultracentrifuge rotor.,67,900,421,275,22,237,423,449,635,474,338,489,69
+Centrifuges,490581,w/d2 integrator,23,170,681,610,540,576,907,33,145,437,343,72,30
+Bath,490240,water bath,29,479,288,865,855,699,981,880,554,345,577,504,895
+Bath,490241,water bath. 12x14 with cover.,18,182,955,43,987,229,644,982,864,2,327,735,583
+Cell Disrupters,490329,Wood L2-G731 EX homogenizer. 1/8 hp motor.,72,956,791,233,758,423,408,507,922,355,172,76,84
+Desiccators,490626,x 10 plastic dessicator box with shelf.,74,877,376,157,811,756,845,299,342,850,65,87,789
+Balances,490136,YPD 02 printer.,65,936,101,272,70,523,952,219,282,918,887,33,632
+Centrifuges,490582,Z230A MK II  6x25?ml rotor.,37,445,168,704,323,549,927,732,182,604,522,234,801
+Centrifuges,490583,Z230M microfuge with 24 x 1.5ml rotor.,29,637,889,950,478,808,752,692,323,712,589,875,861
+Centrifuges,490584,Z320  8 x 15ml centrifuge.,14,278,118,889,360,950,816,339,454,21,458,339,35
+Evaporators,490660,ZW640-3,23,940,624,169,467,905,761,695,223,130,243,791,697

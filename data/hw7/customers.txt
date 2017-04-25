@@ -1,0 +1,44 @@
+1001
+Burt's Hardware
+100 Main St.
+Bangor
+1002
+Hideaway Rentals
+25 Center St.
+Bangor
+1003
+Regal Appliances
+200 Highland Ave.
+Portland
+1004
+Nantucket Apartments
+33 Wyler Ave.
+Portland
+1005
+Applebee Handware
+42 Liverton Lane
+Bangor
+1006
+Assisted Living
+11 Gagnon Road
+Portland
+1007
+Potter Lane
+300 Headway Blvd.
+Portland
+1008
+Prince Apartments
+10 Outer Broadway
+Bangor
+1009
+Quincy Grocery
+75b Kelly Rd
+Bangor
+1010
+Eldercare Assc.
+456 Leighton Rd.
+Portland
+1011
+Coastal Living
+Elderberry Lane
+Portland

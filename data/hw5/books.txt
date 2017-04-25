@@ -1,0 +1,103 @@
+Textbook
+Introduction to Programming with C++
+Y. Daniel Liang
+0136097200
+109.99
+COS221
+Textbook
+An Introduction to Programming Using Visual Basic
+David Schneider
+013212856X
+99.50
+COS120
+Tradebook
+C++ Primer Plus
+Stephen Prata
+1571691316
+59.99
+COS
+Textbook
+Exploring Microsoft Excel 2010
+Robert Grauer
+0135098599
+75.95
+COS103
+Textbook
+Blended HTML, XHTML, and CSS
+Henry Bojak
+0538746335
+79.00
+COS115
+Tradebook
+C++ Projects Programming with Text-Based Games
+Mike Dawson
+1423902270
+49.95
+COS
+Textbook
+Absolute C++
+Walter Savitch
+0201709279
+101.50
+COS220
+Tradebook
+Visual C++.Net
+Don Gosselin
+0619016573
+69.99
+COS
+Textbook
+Data Structures and Problem Solving Using Java
+Mark Weiss
+0321541405
+115.00
+COS226
+Tradebook
+Programming and Object Oriented Design Using Java
+Jaime Nino
+0470128718
+89.99
+COS
+Textbook
+Java Foundations
+John Lewis
+0133370461
+85.99
+COS225
+Tradebook
+Object Oriented Data Structures
+Nell Dale
+1449613543
+105.99
+COS
+Tradebook
+Pivot Table Data Crunching
+Bill Jelen
+0789743132
+49.00
+BUS
+Tradebook
+Data Analysis with Microsoft Excel
+Kenneth Berk
+0495391786
+39.50
+BUS
+Textbook
+Excel 2010 Power Programming with VBA
+John Walkenbach
+0470475355
+79.99
+BUS398
+Tradebook
+VBA and Macros
+Bill Jelen
+089743140
+49.00
+BUS
+Tradebook
+Excel Simulations
+Gerard Verschuuren
+1615470228
+35.75
+BUS
+

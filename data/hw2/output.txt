@@ -1,0 +1,39 @@
+Weather Watch by Noah Howard
+
+Town		Date		Temp	Direction	Wind Speed	Reporter
+BANGOR		12/10/16	34.70	W			2.50		PN
+ORONO		12/10/16	33.65	NW			2.70		SR
+BANGOR		12/11/16	32.00	W			2.30		TE
+CALAIS		12/11/16	35.10	W			1.90		PS
+CALAIS		12/11/16	35.75	W			2.00		XO
+BANGOR		12/12/16	31.90	N			2.80		HS
+BANGOR		12/13/16	28.50	N			2.10		TN
+ORONO		12/13/16	26.85	N			2.00		OS
+ORONO		12/13/16	26.90	NE			2.10		IT
+CALAIS		12/13/16	33.15	N			2.70		XO
+ORONO		12/14/16	28.60	E			3.10		IT
+BANGOR		12/14/16	31.75	E			3.00		JN
+
+Overall Average Temperature: 31.57
+Overall Average Wind Speed: 2.43
+
+Number of readings:
+BANGOR		5
+ORONO		4
+CALAIS		3
+
+Historical Averages:
+January    24.92
+February   32.70
+March      45.91
+April      52.00
+May        68.90
+June       73.55
+July       78.63
+August     77.59
+September  68.40
+October    55.70
+November   45.75
+December   36.33
+
+Difference between this December from historical average is -4.76
