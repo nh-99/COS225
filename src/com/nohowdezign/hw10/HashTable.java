@@ -92,7 +92,7 @@ public class HashTable {
 
     // Third hash function we use on the third run
     // SOURCE: http://algs4.cs.princeton.edu/34hash/
-    private int hash3(String word) {                 // POST: Return hash index of word
+    public int hash3(String word) {                 // POST: Return hash index of word
         return (word.hashCode() & 0x7fffffff) % getCapacity();
     }
 }

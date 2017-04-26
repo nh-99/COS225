@@ -7,13 +7,13 @@ import java.io.*;
  * This class loads in the data and tests out the hashing functions. It imports the data from the jumbledwords file and
  * prints the length of each cluster in the hashtable to an out.txt file.
  */
-public class HashRace {
+public class HashTestMain {
     private HashTable hashTable = new HashTable(1009);             // HashTable to store data in
 
     public static void main(String[] args) throws IOException {
-        HashRace hashRace = new HashRace();                             // Declare main class
-        hashRace.loadData();                                            // Import data
-        hashRace.writeResults();                                        // Write results
+        HashTestMain hashTestMain = new HashTestMain();                 // Declare main class
+        hashTestMain.loadData();                                        // Import data
+        hashTestMain.writeResults();                                    // Write results
     }
 
     private void loadData() {                                           // POST: Fills the hashTable
